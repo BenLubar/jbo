@@ -6695,15 +6695,14 @@
   <notes>См. {vraga}, {pulni}, {cabra}</notes>
   <glossword word="шестерёнка" />
 </valsi>
-<valsi unofficial="true" word="enrio" type="obsolete fu'ivla">
+<valsi word="enriio" type="fu'ivla">
   <user>
     <username>gleki</username>
     <realname>gleki</realname>
   </user>
   <definition>$x_1$ проявляет энрио (японский термин) в действиях $x_2$; $x_1$ действует эгоистически, чтобы сохранить свою внутреннюю свободу, предотвратить своё смущение, и в то же время действует альтруистически путём избегания вовлечения социальных элементов без нанесения обид/боли другим; $x_1$ социально ограничивает себя под давлением групповой солидарности и послушания, чтобы не задеть чувства других; $x_1$ вежлив</definition>
-  <definitionid>41322</definitionid>
+  <definitionid>67522</definitionid>
   <notes>См. {clite}, {tarti}, {jikca}, {cnikansa}, {dai}, {sevzi}, {zukte}</notes>
-  <glossword word="проявлять энрио" />
 </valsi>
 <valsi word="e'o" type="cmavo">
   <selmaho>UI1</selmaho>
@@ -32937,7 +32936,6 @@
 <nlword word="дизайнер" valsi="enge" />
 <nlword word="инженер" valsi="enge" place="1" />
 <nlword word="шестерёнка" valsi="engranaje" />
-<nlword word="проявлять энрио" valsi="enrio" />
 <nlword word="спорт" valsi="esporte" place="1" />
 <nlword word="спортсмен" valsi="esporte" place="2" />
 <nlword word="1-ое sumti-место" valsi="fa" />

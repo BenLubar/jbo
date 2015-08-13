@@ -6736,6 +6736,14 @@
   <definitionid>14221</definitionid>
   <notes>{dukse} {lifri}; {be&apos;unai}</notes>
 </valsi>
+<valsi word="dutkai" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ ckaji lo dukti be $x_2$ bei $x_3$</definition>
+  <definitionid>67533</definitionid>
+</valsi>
 <valsi word="dutse'i" type="lujvo">
   <user>
     <username>xorxes</username>
@@ -14006,6 +14014,14 @@
   <notes>{krasi} {fanmo} {temci}; {ze&apos;a}, {ze&apos;e}, {ze&apos;i}, {ze&apos;u}</notes>
   <glossword word="krafamtei" />
 </valsi>
+<valsi word="kraice" type="fu'ivla">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ to&apos;e tende lo ka traide $x_2$</definition>
+  <definitionid>67516</definitionid>
+</valsi>
 <valsi word="kralyma'u" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -14072,6 +14088,14 @@
   <definition>$x_1$ pensi lo du&apos;u $x_2$ noi srana $x_3$ cu jetnu kei gi&apos;e na pensi lo du&apos;u $x_2$ ka&apos;e na jetnu</definition>
   <definitionid>65555</definitionid>
   <notes>{pensi}; {srana}; {jetnu}; {jinvi}; {birti}; {djuno}; {senpi}; {lijda}</notes>
+</valsi>
+<valsi word="krilacri" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ lacri $x_2$ $x_3$ gi&apos;e krici lo du&apos;u $x_2$ ba zukte $x_3$ gi&apos;enai ba traide $x_1$</definition>
+  <definitionid>67517</definitionid>
 </valsi>
 <valsi word="krili" type="gismu">
   <user>
@@ -21512,6 +21536,24 @@
   <definitionid>65320</definitionid>
   <notes>srana fa zo {porsi} .e zo {pormoi} .e zo {momkai}</notes>
 </valsi>
+<valsi word="pornarselvai" type="lujvo">
+  <user>
+    <username>zozeizeizeizeifaho</username>
+    <realname>la du kooi noi zo zei zei zei zei fao ku ne vou biu pei</realname>
+  </user>
+  <definition>$x_1$ poi&apos;i lo du&apos;u ma kau te porsi lo sumti be ke&apos;a na vajni</definition>
+  <definitionid>67509</definitionid>
+  <notes>va&apos;i lo nu basygau fi lo bi&apos;u nai te porsi na stika lo nu pilno $x_1$ kei lo ka ma kau smuni .i ko catlu ke si&apos;a zo {porsi} je zo {sumti}</notes>
+</valsi>
+<valsi word="porselvai" type="lujvo">
+  <user>
+    <username>zozeizeizeizeifaho</username>
+    <realname>la du kooi noi zo zei zei zei zei fao ku ne vou biu pei</realname>
+  </user>
+  <definition>$x_1$ poi&apos;i lo du&apos;u ma kau te porsi lo sumti be ke&apos;a cu vajni</definition>
+  <definitionid>67510</definitionid>
+  <notes>va&apos;i lo nu basygau fi lo bi&apos;u nai te porsi ja&apos;a stika lo nu pilno $x_1$ kei lo ka ma kau smuni .i ko catlu ke si&apos;a zo {porsi} je zo {sumti} je zo {pornarselvai}</notes>
+</valsi>
 <valsi word="porsi" type="gismu">
   <rafsi>por</rafsi>
   <rafsi>poi</rafsi>
@@ -23087,6 +23129,16 @@
   <definition>$x_1$ trene $x_2$ boi $x_3$ boi $x_4$ gi&apos;e denpa lo nu $x_2$ co&apos;a ja co&apos;u se marce $x_1$ kei lo za&apos;i $x_1$ cando kei lo nu $x_1$ di&apos;a muvdu kei roroi lo nu $x_1$ tolcliva lo tcana</definition>
   <definitionid>66632</definitionid>
   <notes>.i .e&apos;u ko tcidu tu&apos;a zo {ro} .e zo {denpa} .e zo {trene}</notes>
+</valsi>
+<valsi word="roldje" type="lujvo">
+  <user>
+    <username>selpahi</username>
+    <realname>Lorenzo Von Matterhorn</realname>
+  </user>
+  <definition>$x_1$ na&apos;o fasnu ca ro djedi</definition>
+  <definitionid>67523</definitionid>
+  <notes>srana fa zo {fasnu} .e zo {dikni} .e zo {djedi} .e zo {tcaci} .e zo {cafne} .e zo {na&apos;o} .e zo {ta&apos;e} .e zo {krefu} .e zo {rapli}</notes>
+  <glossword word="roldje" />
 </valsi>
 <valsi word="roldza" type="lujvo">
   <user>
@@ -34727,6 +34779,7 @@
 <nlword word="ro&apos;u" valsi="ro&apos;u" />
 <nlword word="roi" valsi="roi" />
 <nlword word="roldei" valsi="roldei" />
+<nlword word="roldje" valsi="roldje" />
 <nlword word="rolju&apos;o" valsi="rolju&apos;o" />
 <nlword word="rolnonvlina" valsi="rolnonvlina" />
 <nlword word="rolselsumji" valsi="rolselsumji" />
