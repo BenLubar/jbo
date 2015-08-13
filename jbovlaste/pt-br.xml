@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Português do Brasil"><valsi word="ckuliki" type="fu'ivla">
+  <user>
+    <username>gleki</username>
+    <realname>gleki</realname>
+  </user>
+  <definition>$x_1$ é um mosquito da espécie/variedade $x_2$</definition>
+  <definitionid>66319</definitionid>
+  <notes>Veja também {blusfani}</notes>
+  <glossword word="mosquito" />
+</valsi>
+</direction><direction from="Português do Brasil" to="lojban"><nlword word="mosquito" valsi="ckuliki" />
+</direction></dictionary>
+
+
+
+
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Беларуская"><valsi unofficial="true" word="pamniarkovni" type="obsolete fu'ivla">
+  <user>
+    <username>Kijdenvoot</username>
+    <realname>Sergey</realname>
+  </user>
+  <definition>$x_1$ - памяркоўны, разважлівы з вузкім кругаглядам</definition>
+  <definitionid>57368</definitionid>
+  <glossword word="памяркоўны" />
+</valsi>
+<valsi word="pamrkovni" type="fu'ivla">
+  <user>
+    <username>gleki</username>
+    <realname>gleki</realname>
+  </user>
+  <definition>$x_1$ - памяркоўны, разважлівы з вузкім кругаглядам</definition>
+  <definitionid>57141</definitionid>
+  <glossword word="памяркоўны" />
+</valsi>
+</direction><direction from="Беларуская" to="lojban"><nlword word="памяркоуны" valsi="pamrkovni" />
+<nlword word="помяркоуный" valsi="pamrkovni" />
+</direction></dictionary>
+
+
+
+
+

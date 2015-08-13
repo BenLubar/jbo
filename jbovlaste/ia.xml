@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Interlingua"><valsi word="pa" type="cmavo">
+  <rafsi>pav</rafsi>
+  <selmaho>PA1</selmaho>
+  <user>
+    <username>teranos</username>
+    <realname>brandon van houten</realname>
+  </user>
+  <definition>digito/numero: 1 [un]</definition>
+  <definitionid>19148</definitionid>
+  <glossword word="1" />
+  <glossword word="un" />
+</valsi>
+<valsi word="re" type="cmavo">
+  <rafsi>rel</rafsi>
+  <selmaho>PA1</selmaho>
+  <user>
+    <username>teranos</username>
+    <realname>brandon van houten</realname>
+  </user>
+  <definition>digito/numero: 2 [duo]</definition>
+  <definitionid>19149</definitionid>
+  <glossword word="2" />
+  <glossword word="duo" />
+</valsi>
+</direction><direction from="Interlingua" to="lojban"><nlword word="1" valsi="pa" />
+<nlword word="un" valsi="pa" />
+<nlword word="2" valsi="re" />
+<nlword word="duo" valsi="re" />
+</direction></dictionary>
+
+
+
+
+

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="עברית"><valsi word="bacru" type="gismu">
+  <rafsi>ba&apos;u</rafsi>
+  <user>
+    <username>synp</username>
+    <realname>Yoav Nir</realname>
+  </user>
+  <definition>$x_1$ מדבר/אומר $x_2$</definition>
+  <definitionid>16228</definitionid>
+  <notes>הגיסמו אינו מחייב קיומה של תקשורת או של קהל. אמירה לצרכי תקשורת היא בד&quot;כ {cusku}</notes>
+  <glossword word="לדבר" sense="להגיד משהו" />
+</valsi>
+<valsi word="badna" type="gismu">
+  <user>
+    <username>synp</username>
+    <realname>Yoav Nir</realname>
+  </user>
+  <definition>$x_1$ היא בננה מזן/סוג $x_2$</definition>
+  <definitionid>16229</definitionid>
+  <notes>הגיסמו מתייחס הן לפרי והן לצמח</notes>
+  <glossword word="בננה" />
+</valsi>
+<valsi word="bakni" type="gismu">
+  <rafsi>bak</rafsi>
+  <user>
+    <username>synp</username>
+    <realname>Yoav Nir</realname>
+  </user>
+  <definition>$x_1$ הוא פר/פרה/שור/עגל/עגלה מסוג/זן $x_2$</definition>
+  <definitionid>16223</definitionid>
+  <notes>ראה גם {danlu}</notes>
+  <glossword word="בקר" sense="בשר" />
+  <glossword word="בקר" sense="שם קיבוצי לקבוצת הפרות" />
+  <glossword word="פרה" sense="חיה" />
+</valsi>
+<valsi word="fagri" type="gismu">
+  <rafsi>fag</rafsi>
+  <user>
+    <username>synp</username>
+    <realname>Yoav Nir</realname>
+  </user>
+  <definition>$x_1$ היא אש/להבה, השורפת דלק $x_2$ בעזרת חומר מחמצן $x_3$.</definition>
+  <definitionid>16224</definitionid>
+  <notes>כברירת מחדל, $x_3$ הוא אויר.</notes>
+  <glossword word="אש" />
+  <glossword word="שריפה" />
+</valsi>
+<valsi word="jirgau" type="lujvo">
+  <user>
+    <username>synp</username>
+    <realname>Yoav Nir</realname>
+  </user>
+  <definition>$x_1$ טובל את $x_2$ בנוזל $x_3$</definition>
+  <definitionid>16236</definitionid>
+  <glossword word="לטבול" />
+</valsi>
+<valsi word="klama" type="gismu">
+  <rafsi>kla</rafsi>
+  <user>
+    <username>araizen</username>
+    <realname>Adam Raizen</realname>
+  </user>
+  <definition>&amp;#8207;$x_1$ בא/הולך/נוסע ליעד $x_2$ ממוצא $x_3$ דרך $x_4$ באמצעות $x_5$ (אמצעים/כלי רכב)</definition>
+  <definitionid>14487</definitionid>
+  <glossword word="בא" />
+  <glossword word="הולך" />
+  <glossword word="נוסע" />
+  <keyword word="הולך" place="1" />
+  <keyword word="יעד" place="2" sense="של נסיעה" />
+  <keyword word="מוצא" place="3" sense="של נסיעה" />
+  <keyword word="דרך" place="4" sense="של נסיעה" />
+  <keyword word="כלי רכב" place="5" sense="של נסיעה" />
+</valsi>
+<valsi word="la'ornai" type="lujvo">
+  <user>
+    <username>synp</username>
+    <realname>Yoav Nir</realname>
+  </user>
+  <definition>$x_1$ היא האומה הרומאית, המורכבת מאנשים $x_2$</definition>
+  <definitionid>16233</definitionid>
+  <notes>הכוונה היא לאומה של רומא העתיקה והאימפריה הרומית, לא לתושבי בירת איטליה.</notes>
+  <glossword word="רומאים" sense="אומה" />
+</valsi>
+<valsi word="mulcabna" type="lujvo">
+  <user>
+    <username>synp</username>
+    <realname>Yoav Nir</realname>
+  </user>
+  <definition>הארוע $x_1$ הוא אחרי שהארוע $x_2$ הסתיים</definition>
+  <definitionid>16231</definitionid>
+  <glossword word="אחרי" />
+</valsi>
+</direction><direction from="עברית" to="lojban"><nlword word="לדבר" sense="להגיד משהו" valsi="bacru" />
+<nlword word="בננה" valsi="badna" />
+<nlword word="בקר" valsi="bakni" />
+<nlword word="בקר" sense="בשר" valsi="bakni" />
+<nlword word="בקר" sense="שם קיבוצי לקבוצת הפרות" valsi="bakni" />
+<nlword word="פרה" valsi="bakni" />
+<nlword word="פרה" sense="חיה" valsi="bakni" />
+<nlword word="אש" valsi="fagri" />
+<nlword word="שריפה" valsi="fagri" />
+<nlword word="לטבול" valsi="jirgau" />
+<nlword word="בא" valsi="klama" />
+<nlword word="דרך" sense="של נסיעה" valsi="klama" place="4" />
+<nlword word="הולך" valsi="klama" />
+<nlword word="יעד" sense="של נסיעה" valsi="klama" place="2" />
+<nlword word="כלי רכב" sense="של נסיעה" valsi="klama" place="5" />
+<nlword word="מוצא" sense="של נסיעה" valsi="klama" place="3" />
+<nlword word="נוסע" valsi="klama" />
+<nlword word="רומאים" sense="אומה" valsi="la&apos;ornai" />
+<nlword word="אחרי" valsi="mulcabna" />
+</direction></dictionary>
+
+
+
+
+

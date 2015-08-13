@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Tiếng Việt"><valsi word="abu" type="bu-letteral">
+  <selmaho>BY*</selmaho>
+  <user>
+    <username>hdh</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>chữ cái A</definition>
+  <definitionid>16359</definitionid>
+  <glossword word="A" sense="chữ cái" />
+</valsi>
+<valsi word="bajra" type="gismu">
+  <rafsi>baj</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ chạy trên $x2$ dùng $x3$ theo cách $x4$</definition>
+  <definitionid>17792</definitionid>
+  <glossword word="chạy" />
+  <keyword word="người chạy" place="1" />
+  <keyword word="bề mặt" place="2" />
+  <keyword word="chi" place="3" sense="tay; chân" />
+  <keyword word="dáng đi" place="4" />
+</valsi>
+<valsi word="by" type="cmavo">
+  <selmaho>BY2</selmaho>
+  <user>
+    <username>hdh</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>chữ cái B</definition>
+  <definitionid>16360</definitionid>
+  <glossword word="B" />
+</valsi>
+<valsi word="cutci" type="gismu">
+  <rafsi>cuc</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ là giầy cho $x2$ làm từ $x3$</definition>
+  <definitionid>17791</definitionid>
+  <glossword word="giầy" />
+  <keyword word="giầy" place="1" />
+  <keyword word="bàn chân" place="2" />
+  <keyword word="chất liệu" place="3" />
+</valsi>
+<valsi word="cy" type="cmavo">
+  <selmaho>BY2</selmaho>
+  <user>
+    <username>hdh</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>chữ cái C</definition>
+  <definitionid>16361</definitionid>
+  <glossword word="C" />
+</valsi>
+<valsi word="gerku" type="gismu">
+  <rafsi>ger</rafsi>
+  <rafsi>ge&apos;u</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ là chó thuộc giống $x2$</definition>
+  <definitionid>17795</definitionid>
+  <glossword word="chó" />
+  <keyword word="chó" place="1" />
+  <keyword word="giống chó" place="2" sense="loại chó" />
+</valsi>
+<valsi word="jibri" type="gismu">
+  <rafsi>jib</rafsi>
+  <user>
+    <username>hdh</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x_1$ là công việc/việc làm/nghề nghiệp (việc làm thường xuyên, để kiếm tiền) của người $x_2$</definition>
+  <definitionid>16363</definitionid>
+  <glossword word="công việc" />
+  <glossword word="nghề nghiệp" />
+  <glossword word="việc làm" />
+  <keyword word="công việc" place="1" />
+  <keyword word="người lao động" place="2" />
+</valsi>
+<valsi word="kanro" type="gismu">
+  <rafsi>ka&apos;o</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ khỏe mạnh theo tiêu chuẩn $x2$</definition>
+  <definitionid>17798</definitionid>
+  <glossword word="khỏe" />
+  <keyword word="khỏe" place="1" />
+  <keyword word="tiêu chuẩn" place="2" />
+</valsi>
+<valsi word="klama" type="gismu">
+  <rafsi>kla</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ đi đến $x2$ từ $x3$ qua $x4$ dùng $x5$</definition>
+  <definitionid>17793</definitionid>
+  <glossword word="du hành" />
+  <glossword word="đi" />
+  <keyword word="người đi" place="1" />
+  <keyword word="điểm đến" place="2" />
+  <keyword word="điểm xuất phát" place="3" />
+  <keyword word="đường đi" place="4" />
+  <keyword word="phương tiện đi lại" place="5" />
+</valsi>
+<valsi word="kurji" type="gismu">
+  <rafsi>kuj</rafsi>
+  <rafsi>ku&apos;i</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ chăm sóc $x2$</definition>
+  <definitionid>17796</definitionid>
+  <glossword word="chăm sóc" />
+  <keyword word="người chăm sóc" place="1" />
+  <keyword word="người được chăm sóc" place="2" />
+</valsi>
+<valsi word="lerfu" type="gismu">
+  <rafsi>ler</rafsi>
+  <rafsi>le&apos;u</rafsi>
+  <user>
+    <username>hdh</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x_1$ là chữ cái/chữ số/biểu tượng trong bảng chữ cái/bộ kí tự $x_2$, biểu thị $x_3$</definition>
+  <definitionid>16362</definitionid>
+  <glossword word="biểu tượng" sense="kí tự" />
+  <glossword word="chữ cái" />
+  <glossword word="chữ số" />
+  <glossword word="kí tự" />
+  <keyword word="chữ cái" place="1" />
+  <keyword word="bảng chữ cái" place="2" />
+</valsi>
+<valsi word="ly" type="cmavo">
+  <selmaho>BY2</selmaho>
+  <user>
+    <username>hdh</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>chữ cái L</definition>
+  <definitionid>16358</definitionid>
+  <glossword word="L" />
+</valsi>
+<valsi word="melbi" type="gismu">
+  <rafsi>mel</rafsi>
+  <rafsi>mle</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ đẹp đối với $x2$ theo tiêu chuẩn $x3$</definition>
+  <definitionid>17790</definitionid>
+  <glossword word="đẹp" />
+  <keyword word="vật thể hoặc ý niệm" place="1" />
+  <keyword word="người quan sát" place="2" />
+  <keyword word="tiêu chuẩn" place="3" />
+</valsi>
+<valsi word="pluka" type="gismu">
+  <rafsi>puk</rafsi>
+  <rafsi>pu&apos;a</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ làm $x2$ vui lòng dưới điều kiện $x3$</definition>
+  <definitionid>17794</definitionid>
+  <glossword word="làm vừa lòng" />
+  <glossword word="vừa ý" />
+  <keyword word="sự kiện hoặc trạng thái" place="1" />
+  <keyword word="người cảm nhận" place="2" />
+  <keyword word="điều kiện" place="3" />
+</valsi>
+<valsi word="stali" type="gismu">
+  <rafsi>sta</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ ở lại với $x2$</definition>
+  <definitionid>17815</definitionid>
+  <glossword word="ở lại" />
+  <keyword word="người ở lại" place="1" />
+  <keyword word="địa điểm" place="2" />
+</valsi>
+<valsi word="sutra" type="gismu">
+  <rafsi>sut</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ làm việc $x2$ một cách nhanh chóng</definition>
+  <definitionid>17787</definitionid>
+  <glossword word="nhanh" />
+  <glossword word="nhanh chóng" />
+  <keyword word="tác nhân" place="1" />
+  <keyword word="hành động" place="2" />
+</valsi>
+<valsi word="tavla" type="gismu">
+  <rafsi>tav</rafsi>
+  <rafsi>ta&apos;a</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ nói với $x2$ về $x3$ bằng ngôn ngữ $x4$</definition>
+  <definitionid>17786</definitionid>
+  <glossword word="nói" />
+  <keyword word="người nói" place="1" />
+  <keyword word="người nghe" place="2" />
+  <keyword word="chủ đề" place="3" />
+  <keyword word="ngôn ngữ" place="4" />
+</valsi>
+<valsi word="vecnu" type="gismu">
+  <rafsi>ven</rafsi>
+  <rafsi>ve&apos;u</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ bán $x2$ cho $x3$ với giá $x4$</definition>
+  <definitionid>17785</definitionid>
+  <glossword word="bán" />
+  <keyword word="người bán" place="1" />
+  <keyword word="hàng hóa" place="2" />
+  <keyword word="người mua" place="3" />
+  <keyword word="giá" place="4" sense="giá bán; giá mua" />
+</valsi>
+<valsi word="zarci" type="gismu">
+  <rafsi>zac</rafsi>
+  <rafsi>zai</rafsi>
+  <user>
+    <username>lazni</username>
+    <realname>Hong c Hiu</realname>
+  </user>
+  <definition>$x1$ là chợ/cửa hàng/cửa hiệu bán $x2$ do $x3$ làm việc</definition>
+  <definitionid>17799</definitionid>
+  <glossword word="chợ" />
+  <glossword word="cửa hiệu" />
+  <glossword word="cửa hàng" />
+  <keyword word="cửa hàng; cửa hiệu" place="1" />
+  <keyword word="sản phẩm" place="2" />
+  <keyword word="người bán" place="3" />
+</valsi>
+</direction><direction from="Tiếng Việt" to="lojban"><nlword word="A" sense="chữ cái" valsi="abu" />
+<nlword word="bề mặt" valsi="bajra" place="2" />
+<nlword word="chi" sense="tay; chân" valsi="bajra" place="3" />
+<nlword word="chạy" valsi="bajra" />
+<nlword word="dáng đi" valsi="bajra" place="4" />
+<nlword word="người chạy" valsi="bajra" place="1" />
+<nlword word="B" valsi="by" />
+<nlword word="bàn chân" valsi="cutci" place="2" />
+<nlword word="chất liệu" valsi="cutci" place="3" />
+<nlword word="giầy" valsi="cutci" place="1" />
+<nlword word="C" valsi="cy" />
+<nlword word="chó" valsi="gerku" place="1" />
+<nlword word="giống chó" sense="loại chó" valsi="gerku" place="2" />
+<nlword word="công việc" valsi="jibri" place="1" />
+<nlword word="nghề nghiệp" valsi="jibri" />
+<nlword word="người lao động" valsi="jibri" place="2" />
+<nlword word="việc làm" valsi="jibri" />
+<nlword word="khỏe" valsi="kanro" place="1" />
+<nlword word="tiêu chuẩn" valsi="kanro" place="2" />
+<nlword word="du hành" valsi="klama" />
+<nlword word="người đi" valsi="klama" place="1" />
+<nlword word="phương tiện đi lại" valsi="klama" place="5" />
+<nlword word="đi" valsi="klama" />
+<nlword word="điểm xuất phát" valsi="klama" place="3" />
+<nlword word="điểm đến" valsi="klama" place="2" />
+<nlword word="đường đi" valsi="klama" place="4" />
+<nlword word="chăm sóc" valsi="kurji" />
+<nlword word="người chăm sóc" valsi="kurji" place="1" />
+<nlword word="người được chăm sóc" valsi="kurji" place="2" />
+<nlword word="biểu tượng" sense="kí tự" valsi="lerfu" />
+<nlword word="bảng chữ cái" valsi="lerfu" place="2" />
+<nlword word="chữ cái" valsi="lerfu" place="1" />
+<nlword word="chữ số" valsi="lerfu" />
+<nlword word="kí tự" valsi="lerfu" />
+<nlword word="L" valsi="ly" />
+<nlword word="người quan sát" valsi="melbi" place="2" />
+<nlword word="vật thể hoặc ý niệm" valsi="melbi" place="1" />
+<nlword word="đẹp" valsi="melbi" />
+<nlword word="làm vừa lòng" valsi="pluka" />
+<nlword word="người cảm nhận" valsi="pluka" place="2" />
+<nlword word="sự kiện hoặc trạng thái" valsi="pluka" place="1" />
+<nlword word="vừa ý" valsi="pluka" />
+<nlword word="điều kiện" valsi="pluka" place="3" />
+<nlword word="người ở lại" valsi="stali" place="1" />
+<nlword word="địa điểm" valsi="stali" place="2" />
+<nlword word="ở lại" valsi="stali" />
+<nlword word="hành động" valsi="sutra" place="2" />
+<nlword word="nhanh" valsi="sutra" />
+<nlword word="nhanh chóng" valsi="sutra" />
+<nlword word="tác nhân" valsi="sutra" place="1" />
+<nlword word="chủ đề" valsi="tavla" place="3" />
+<nlword word="ngôn ngữ" valsi="tavla" place="4" />
+<nlword word="người nghe" valsi="tavla" place="2" />
+<nlword word="người nói" valsi="tavla" place="1" />
+<nlword word="nói" valsi="tavla" />
+<nlword word="bán" valsi="vecnu" />
+<nlword word="giá" sense="giá bán; giá mua" valsi="vecnu" place="4" />
+<nlword word="hàng hóa" valsi="vecnu" place="2" />
+<nlword word="người mua" valsi="vecnu" place="3" />
+<nlword word="chợ" valsi="zarci" />
+<nlword word="cửa hiệu" valsi="zarci" />
+<nlword word="cửa hàng" valsi="zarci" />
+<nlword word="cửa hàng; cửa hiệu" valsi="zarci" place="1" />
+<nlword word="người bán" valsi="zarci" place="3" />
+<nlword word="sản phẩm" valsi="zarci" place="2" />
+</direction></dictionary>
+
+
+
+
+

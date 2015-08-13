@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Latviešu"><valsi word="catke" type="gismu">
+  <rafsi>ca&apos;e</rafsi>
+  <user>
+    <username>Pendrokar</username>
+    <realname>Yanis Lukes</realname>
+  </user>
+  <definition>$x_1$ [aģents] stumj/grūž/bīda $x_2$ punktā $x_3$</definition>
+  <definitionid>67143</definitionid>
+  <notes>Kustina stumjot/grūžot/bīdot: ca&apos;ermuvgau danre (spiest) - priekš spēka bez aģenta, lacpu (vilkt)</notes>
+  <glossword word="stumt" sense="nenoteiksme (infinitīvs)" />
+  <keyword word="stūmējs" place="1" />
+  <keyword word="stumtais" place="2" />
+  <keyword word="spiešanas punkts" place="3" sense="vieta uz x2 kur spiež" />
+</valsi>
+</direction><direction from="Latviešu" to="lojban"><nlword word="stumtais" valsi="catke" place="2" />
+</direction></dictionary>
+
+
+
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Test Language"><valsi unofficial="true" word="ci'oi" type="experimental cmavo">
+  <selmaho>COI2</selmaho>
+  <user>
+    <username>mukti</username>
+    <realname>Riley Martinez-Lynch</realname>
+  </user>
+  <definition>………</definition>
+  <definitionid>65995</definitionid>
+  <notes>………</notes>
+  <glossword word="………" sense="………" />
+</valsi>
+<valsi word="cipra" type="gismu">
+  <rafsi>cip</rafsi>
+  <user>
+    <username>durka42</username>
+    <realname>Alex Burka</realname>
+  </user>
+  <definition>cipra jai cipra be fai $x_1$</definition>
+  <definitionid>63957</definitionid>
+</valsi>
+<valsi word="klama" type="gismu">
+  <rafsi>kla</rafsi>
+  <user>
+    <username>glekizmiku</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
+  </user>
+  <definition>$x_1$ is a test</definition>
+  <definitionid>60490</definitionid>
+  <notes>URL test: [url!http://example.org/]</notes>
+</valsi>
+</direction><direction from="Test Language" to="lojban"></direction></dictionary>
+
+
+
+
+

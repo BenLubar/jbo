@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="한국어"><valsi word="finpe" type="gismu">
+  <rafsi>fip</rafsi>
+  <rafsi>fi&apos;e</rafsi>
+  <user>
+    <username>seo</username>
+    <realname>Seo Sanghyeon</realname>
+  </user>
+  <definition>$x_1$은 $x_2$ 종의 물고기이다.</definition>
+  <definitionid>14886</definitionid>
+  <glossword word="물고기" />
+</valsi>
+<valsi word="fipfepri" type="lujvo">
+  <user>
+    <username>seo</username>
+    <realname>Seo Sanghyeon</realname>
+  </user>
+  <definition>$x_1$은 $x_2$의 아가미이다.</definition>
+  <definitionid>14887</definitionid>
+  <glossword word="아가미" />
+</valsi>
+</direction><direction from="한국어" to="lojban"></direction></dictionary>
+
+
+
+
+

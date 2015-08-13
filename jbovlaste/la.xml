@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Latina"><valsi word="bangu" type="gismu">
+  <rafsi>ban</rafsi>
+  <rafsi>bau</rafsi>
+  <user>
+    <username>jwodder</username>
+    <realname>la djanuodr</realname>
+  </user>
+  <definition>$x_1$ lingua populi $x_2$ est ut $x_2$ $x_3$ ({si&apos;o} aut {du&apos;u}, non locum adlatum) dicat</definition>
+  <definitionid>16305</definitionid>
+  <notes>Confer {tance} et {cusku} et {ve tavla} et {valsi} et {gerna} et {jufra} et {natmi} et {slaka}</notes>
+  <glossword word="lingua" />
+  <keyword word="lingua" place="1" />
+</valsi>
+<valsi word="coi" type="cmavo">
+  <user>
+    <username>gobblette</username>
+    <realname>Catherine B Krause</realname>
+  </user>
+  <definition>Vocativum: Ave/Avete/Salve/Salvete</definition>
+  <definitionid>56787</definitionid>
+  <glossword word="ave" />
+  <glossword word="salve" sense="ave" />
+  <glossword word="salvete" sense="avete" />
+</valsi>
+<valsi word="do" type="cmavo">
+  <rafsi>don</rafsi>
+  <rafsi>doi</rafsi>
+  <user>
+    <username>gobblette</username>
+    <realname>Catherine B Krause</realname>
+  </user>
+  <definition>pro-sumti: tu auscultans, vos auscultantes; vocativo agnoscitur</definition>
+  <definitionid>56788</definitionid>
+  <glossword word="tu" />
+  <glossword word="vos" />
+</valsi>
+<valsi word="gerku" type="gismu">
+  <rafsi>ger</rafsi>
+  <rafsi>ge&apos;u</rafsi>
+  <user>
+    <username>gobblette</username>
+    <realname>Catherine B Krause</realname>
+  </user>
+  <definition>$x_1$ canis generis $x_2$ est.</definition>
+  <definitionid>56790</definitionid>
+  <glossword word="canis" sense="animal" />
+  <glossword word="canis" sense="genus biologicus" />
+  <keyword word="canis" place="1" sense="animal" />
+  <keyword word="genus" place="2" sense="genus canis" />
+</valsi>
+<valsi word="namcu" type="gismu">
+  <rafsi>nac</rafsi>
+  <rafsi>na&apos;u</rafsi>
+  <user>
+    <username>jwodder</username>
+    <realname>la djanuodr</realname>
+  </user>
+  <definition>$x_{1}$ numerus est</definition>
+  <definitionid>16304</definitionid>
+  <notes>Confer {lerfu} et {mekso} et {klani}</notes>
+  <glossword word="numerus" />
+  <keyword word="numerus" place="1" />
+</valsi>
+<valsi word="prami" type="gismu">
+  <rafsi>pam</rafsi>
+  <rafsi>pa&apos;i</rafsi>
+  <user>
+    <username>bgohla</username>
+    <realname>B. Gohla</realname>
+  </user>
+  <definition>aliquis $x_1$ amat aliquid/aliquem $x_2$</definition>
+  <definitionid>2516</definitionid>
+</valsi>
+</direction><direction from="Latina" to="lojban"><nlword word="lingua" valsi="bangu" place="1" />
+<nlword word="ave" valsi="coi" />
+<nlword word="salve" sense="ave" valsi="coi" />
+<nlword word="salvete" sense="avete" valsi="coi" />
+<nlword word="tu" valsi="do" />
+<nlword word="vos" valsi="do" />
+<nlword word="canis" sense="animal" valsi="gerku" place="1" />
+<nlword word="canis" sense="genus biologicus" valsi="gerku" />
+<nlword word="genus" sense="genus canis" valsi="gerku" place="2" />
+<nlword word="numerus" valsi="namcu" place="1" />
+</direction></dictionary>
+
+
+
+
+

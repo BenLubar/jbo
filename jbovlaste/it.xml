@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="Italiano"><valsi word="bacru" type="gismu">
+  <rafsi>ba&apos;u</rafsi>
+  <user>
+    <username>tettaman</username>
+    <realname>Andrea G B Tettamanzi</realname>
+  </user>
+  <definition>$b_1$ proferisce/dice/pronuncia/dà voce a $b_2$</definition>
+  <definitionid>16723</definitionid>
+  <notes>Non implica necessariamente comunicazione o ascoltatori; ``dire&apos;&apos; si traduce di solito con {cusku}. Vedi anche {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes>
+  <glossword word="dare voce" />
+  <glossword word="dire" />
+  <glossword word="proferire" />
+  <glossword word="pronunciare" />
+</valsi>
+<valsi word="cfine" type="gismu">
+  <user>
+    <username>remod</username>
+    <realname>Remo Dentato</realname>
+  </user>
+  <definition>$x_{1}$ è un cuneo [strumento/forma] di materiale $x_{2}$.</definition>
+  <definitionid>17826</definitionid>
+  <glossword word="cuneo" />
+</valsi>
+<valsi unofficial="true" word="italian" type="obsolete cmevla">
+  <user>
+    <username>tettaman</username>
+    <realname>Andrea G B Tettamanzi</realname>
+  </user>
+  <definition>Italia</definition>
+  <definitionid>16728</definitionid>
+  <glossword word="Italia" />
+</valsi>
+<valsi word="volsmacu" type="lujvo">
+  <user>
+    <username>mukti</username>
+    <realname>Riley Martinez-Lynch</realname>
+  </user>
+  <definition>$s_1=v_1$ è un pipistrello (un mammifero volante appartenente all&apos;ordine Chiroptera) della specie/razza $s_2$</definition>
+  <definitionid>67221</definitionid>
+  <glossword word="pipistrello" sense="mammifero volante" />
+</valsi>
+</direction><direction from="Italiano" to="lojban"><nlword word="dare voce" valsi="bacru" />
+<nlword word="dire" valsi="bacru" />
+<nlword word="proferire" valsi="bacru" />
+<nlword word="pronunciare" valsi="bacru" />
+<nlword word="cuneo" valsi="cfine" />
+<nlword word="Italia" valsi="italian" />
+<nlword word="pipistrello" sense="mammifero volante" valsi="volsmacu" />
+</direction></dictionary>
+
+
+
+
+

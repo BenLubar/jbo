@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+<direction from="lojban" to="norsk"><valsi word="bacru" type="gismu">
+  <rafsi>ba&apos;u</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ ytrer verbalt/sier/uttaler/artikulerer [lager lyd med stemmen] $x_2$</definition>
+  <definitionid>14346</definitionid>
+  <glossword word="artikulere" />
+  <glossword word="si" />
+  <glossword word="uttale" sense="si" />
+</valsi>
+<valsi word="badna" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en banan av type/art $x_2$</definition>
+  <definitionid>15896</definitionid>
+  <notes>Se også {grute}, {jupybadna}.</notes>
+  <glossword word="banan" />
+  <glossword word="gulebøy" />
+  <keyword word="banan" place="1" />
+  <keyword word="planteart" place="2" />
+</valsi>
+<valsi word="badri" type="gismu">
+  <rafsi>dri</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er trist/lei seg/deprimert/nedfor/føler sorg angående $x_2$ (abstraksjon)</definition>
+  <definitionid>15897</definitionid>
+  <notes>Se også {betri}, {cinmo}, {gleki}, {junri}, {klaku}.</notes>
+  <glossword word="deprimert" />
+  <glossword word="lei seg" />
+  <glossword word="nedfor" sense="følelsesmessig" />
+  <glossword word="trist" />
+</valsi>
+<valsi word="bajra" type="gismu">
+  <rafsi>baj</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ springer på underlag $x_2$ med kroppsdeler $x_3$ og ganglag $x_4$</definition>
+  <definitionid>16094</definitionid>
+  <notes>Se og {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.</notes>
+  <glossword word="løpe" />
+  <glossword word="springe" />
+  <keyword word="springer" place="1" />
+  <keyword word="løpsunderlag" place="2" />
+  <keyword word="løpende kroppsdeler" place="3" />
+  <keyword word="løpende ganglag" place="4" />
+</valsi>
+<valsi word="bakfu" type="gismu">
+  <rafsi>baf</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bunt/pakke med innhold $x_2$, holdt sammen av $x_3$</definition>
+  <definitionid>15898</definitionid>
+  <notes>Se også {dakli}, {daski} og {tanxe}.</notes>
+  <glossword word="bunt" />
+  <glossword word="pakke" />
+  <keyword word="pakke" place="1" />
+  <keyword word="pakkeinnhold" place="2" />
+</valsi>
+<valsi word="bakni" type="gismu">
+  <rafsi>bak</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en ku/okse/storfe/[kalv] av art $x_2$</definition>
+  <definitionid>15899</definitionid>
+  <notes>Se også {danlu}.</notes>
+  <glossword word="ku" />
+  <glossword word="okse" />
+  <glossword word="storfe" />
+  <keyword word="storfe" place="1" />
+  <keyword word="dyreart" place="2" />
+</valsi>
+<valsi word="bakri" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en mengde/inneholder/er laget av kalk fra kilde $x_2$ i form $x_3$</definition>
+  <definitionid>15901</definitionid>
+  <notes>Se også {blabi}, {jilka} og {pinsi}.</notes>
+  <glossword word="kalk" sense="steinslag" />
+</valsi>
+<valsi word="baktu" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bøtte/kanne/spann med innhold $x_2$, laget av materiale $x_3$</definition>
+  <definitionid>15902</definitionid>
+  <notes>Se også {botpi}, {lanka}, {lante}, {patxu} og {tansi}.</notes>
+  <glossword word="bøtte" />
+  <glossword word="kanne" />
+  <glossword word="spann" />
+  <keyword word="bøtte" place="1" />
+  <keyword word="innhold" place="2" />
+  <keyword word="materiale" place="3" sense="i sammensetning" />
+</valsi>
+<valsi word="balji" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en løk [del] av plante/art $x_2$; [metafor: svullen, avrundet]</definition>
+  <definitionid>15903</definitionid>
+  <notes>Se også {batke}, {punli}.</notes>
+  <glossword word="løk" sense="plantedel" />
+  <glossword word="svullen" />
+  <glossword word="utbuling" />
+  <keyword word="løk" place="1" sense="plantedel" />
+  <keyword word="planteart" place="2" />
+</valsi>
+<valsi word="balni" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en balkong/veranda/overheng/hylle på bygning/struktur $x_2$</definition>
+  <definitionid>15904</definitionid>
+  <notes>Se også {kajna}, {punli}.</notes>
+  <glossword word="balkong" />
+  <glossword word="hylle" sense="bygningsdel" />
+  <glossword word="overheng" sense="bygningsdel" />
+  <glossword word="veranda" />
+  <keyword word="balkong" place="1" />
+  <keyword word="bygning" place="2" />
+</valsi>
+<valsi word="balre" type="gismu">
+  <rafsi>ba&apos;e</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er bladet/klingen på våpen/redskap $x_2$</definition>
+  <definitionid>15905</definitionid>
+  <notes>Se også {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.</notes>
+  <glossword word="blad" sense="del av redskap" />
+  <glossword word="klinge" sense="del av sverd" />
+  <keyword word="blad" place="1" sense="del av redskap" />
+  <keyword word="redskap" place="2" />
+</valsi>
+<valsi word="balvi" type="gismu">
+  <rafsi>bav</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er fremtidig for/senere enn/etter $x_2$ i tid; $x_1$ er senere; $x_2$ er tidligere.</definition>
+  <definitionid>16095</definitionid>
+  <notes>Også sekvens, følge, komme etter. $x_1$ kan overlappe $x_2$, så lenge $x_2$ varer i ettertid av $x_1$. Se og {lidne}, {cabna}, {purci}, {farna}, {lerci}, {ba}.</notes>
+  <glossword word="fremtidig" />
+  <glossword word="følge" sense="i tid" />
+  <glossword word="komme etter" sense="i tid" />
+  <glossword word="senere" sense="i tid" />
+  <keyword word="senere" place="1" sense="i tid" />
+  <keyword word="tidligere" place="2" sense="i tid" />
+</valsi>
+<valsi word="bancu" type="gismu">
+  <rafsi>bac</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ strekker seg utenfor/utover grensen av $x_2$ fra $x_3$ i egenskap/mengde $x_4$ (ka/ni)</definition>
+  <definitionid>16096</definitionid>
+  <notes>På den andre senden av en grense, men ikke nødvendigvis direkte på andre siden av eller den kortest mulige distansen over grensen. Heller ikke bundet til posisjon i rom. Se og {dukse}, {ragve}, {zmadu}, {kuspe}, {korbi}, {jimte}, {fe&apos;eba&apos;o}.</notes>
+  <glossword word="utenfor" sense="en grense" />
+  <glossword word="utover" sense="en grense" />
+  <keyword word="utover" place="1" sense="en grense" />
+</valsi>
+<valsi word="bandu" type="gismu">
+  <rafsi>bad</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ (hendelse) beskytter/forsvarer/sikrer $x_2$ (object/tilstand) fra trussel/fare $x_3$ (hendelse)</definition>
+  <definitionid>15906</definitionid>
+  <notes>Sikrer også (verb); $x_1$ motstår $x_3$; beskyttende skjold/dekke (={badgai}). Se også binra, {ckape}, {fanta}, {fapro}, {lunbe}, {marbi}, {rivbi}, {pulji}, {snura}, {zunti}.</notes>
+  <glossword word="beskytte" />
+  <glossword word="forsvare" />
+  <glossword word="motstå" />
+  <glossword word="sikre" />
+</valsi>
+<valsi word="banfi" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en amfibie av art $x_2$</definition>
+  <definitionid>15907</definitionid>
+  <notes>Se også {danlu} og {respa}.</notes>
+  <glossword word="amfibie" />
+  <keyword word="amfibie" place="1" />
+  <keyword word="dyreart" place="2" />
+</valsi>
+<valsi word="bangu" type="gismu">
+  <rafsi>ban</rafsi>
+  <rafsi>bau</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er et språk/en dialekt/språket/dialekten brukt av $x_2$ for å uttrykke/kommunisere $x_3$ (si&apos;o/du&apos;u, ingen sitering)</definition>
+  <definitionid>15908</definitionid>
+  <notes>Brukes også om språk. Se også {cusku}, {gerna}, {jufra}, {natmi}, {slaka}, {tance}, ve {tavla}, {valsi}.</notes>
+  <glossword word="dialekt" />
+  <glossword word="språk" />
+  <keyword word="språk" place="1" />
+  <keyword word="språkbruker" place="2" />
+  <keyword word="budskap" place="3" />
+</valsi>
+<valsi word="banli" type="gismu">
+  <rafsi>bal</rafsi>
+  <rafsi>ba&apos;i</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er stor i egenskap $x_2$ (ka) etter standard $x_3$</definition>
+  <definitionid>15909</definitionid>
+  <notes>Indikerer en subjektiv storhet, i sammenligning med den objektive standarden hos {barda}; (synonymer som trolig trenger tanru): ekstraordinær, fantastisk, grandios, utmerket, emminent. Se også {barda}, {nobli}, se {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, se {manci}.</notes>
+  <glossword word="stor" sense="subjektiv storhet" />
+</valsi>
+<valsi word="banro" type="gismu">
+  <rafsi>ba&apos;o</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ vokser/ekspanderer/blir større [en økende utvikling] til størrelse/form $x_2$ fra $x_3$</definition>
+  <definitionid>15910</definitionid>
+  <notes>Også stigning, utvikling; $x_1$ blir større; Se også {farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}.</notes>
+  <glossword word="ekspandere" />
+  <glossword word="vokse" sense="tilta i størrelse, øke" />
+</valsi>
+<valsi word="banxa" type="gismu">
+  <rafsi>bax</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bank eid av/i banksystem $x_2$ for bankfunksjon(er) $x_3$ (hendelse)</definition>
+  <definitionid>15911</definitionid>
+  <notes>Se også {sorcu}, {zarci}, {canja}, {kagni}, {zivle}, {jdini}, {jbera}.</notes>
+  <glossword word="bank" sense="finansinstitusjon" />
+  <keyword word="bank" place="1" sense="finansinstitusjon" />
+  <keyword word="banksystem" place="2" sense="system for finansinstitusjoner" />
+  <keyword word="bankfunksjon" place="3" sense="funksjon for finansinstitusjon(er)" />
+</valsi>
+<valsi word="banzu" type="gismu">
+  <rafsi>baz</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ (objekt) er er nok/tilstrekkelig for formål $x_2$, under forhold $x_3$</definition>
+  <definitionid>15912</definitionid>
+  <notes>Se også {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.</notes>
+  <glossword word="strekke til" sense="være nok" />
+  <glossword word="tilstrekkelig" />
+  <glossword word="være nok" />
+</valsi>
+<valsi word="bapli" type="gismu">
+  <rafsi>bap</rafsi>
+  <rafsi>bai</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ [kraft] (ka) tvinger hendelse $x_2$ til å skje; $x_1$ avgjør at egenskap $x_2$ skal manifestere seg</definition>
+  <definitionid>15913</definitionid>
+  <notes>Er avhengig av suksess i motsetningen til den fysiske termen som bedre uttykkes med &apos;danre&apos;. Se også {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, cmavo-liste {bai}, {marxa}, {tinsa}, {xarnu}.</notes>
+  <glossword word="tvinge" sense="få noe til å skje" />
+  <keyword word="kraft" place="1" sense="noe som påvirker noe annet" />
+  <keyword word="hendelse" place="2" />
+</valsi>
+<valsi word="barda" type="gismu">
+  <rafsi>bra</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er stor i egenskap/dimensjon(er) $x_2$ (ka) sammenlignet med standard/norm $x_3$</definition>
+  <definitionid>15915</definitionid>
+  <notes>Se også {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}.</notes>
+  <glossword word="stor" sense="storhet" />
+  <keyword word="standard" place="3" />
+</valsi>
+<valsi word="bargu" type="gismu">
+  <rafsi>bag</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ kurver/krummer seg over/rundt $x_2$ og er laget av $x_3$; $x_1$ er en kurve over/rundt $x_2$ av materiale $x_3$</definition>
+  <definitionid>15917</definitionid>
+  <notes>$x_2$ trenger ikke være et object, det kan også være et punkt eller et volum. Se også {{cripu}}, {{kruvi}}, {{korcu}}, {{condi}}.</notes>
+  <glossword word="krumme" />
+  <glossword word="kurve" sense="struktur" />
+  <keyword word="kurve" place="1" sense="struktur" />
+</valsi>
+<valsi word="barja" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bar/pub/kro som serverer $x_2$ til gjester/klientell $x_3$</definition>
+  <definitionid>15888</definitionid>
+  <notes>Se også {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, og {pinxe}.</notes>
+  <glossword word="bar" />
+  <glossword word="kro" />
+  <glossword word="pub" />
+  <keyword word="bar" place="1" />
+  <keyword word="drikke" place="2" sense="væske" />
+  <keyword word="klientell" place="3" />
+</valsi>
+<valsi word="barna" type="gismu">
+  <rafsi>ba&apos;a</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er merker/flekker på $x_2$ av materiale $x_3$</definition>
+  <definitionid>15918</definitionid>
+  <glossword word="flekk" />
+  <glossword word="merke" />
+  <keyword word="merke" place="1" />
+</valsi>
+<valsi word="bartu" type="gismu">
+  <rafsi>bar</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er på utsiden av $x_2$; $x_1$ er eksternt i forhold til $x_2$</definition>
+  <definitionid>15922</definitionid>
+  <notes>Se også {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}, {cmima}, {gubni}, {bancu}, {ze&apos;o}.</notes>
+  <glossword word="ekstern" sense="på utsiden av" />
+  <glossword word="utenfor" />
+  <keyword word="ekstern" place="1" sense="på utsiden av" />
+  <keyword word="utenfor" place="2" />
+</valsi>
+<valsi word="basna" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ uthever/tydeliggjør/gir trykk til $x_2$ ved (handling) $x_3$</definition>
+  <definitionid>15926</definitionid>
+  <notes>Se også {pandi} og {ba&apos;e}.</notes>
+  <glossword word="trykk" sense="tale" />
+  <glossword word="utheve" />
+  <keyword word="uthever" place="1" />
+  <keyword word="uthevet" place="2" />
+</valsi>
+<valsi word="basti" type="gismu">
+  <rafsi>bas</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ overtar plassen til/er substitutt for/i stedet for $x_2$ under forhold/situasjon $x_3$; $x_1$ er et substitutt</definition>
+  <definitionid>15927</definitionid>
+  <notes>Se også cmavo-liste {ba&apos;i}, {binra}.</notes>
+  <glossword word="substitutt" />
+  <keyword word="substitutt" place="1" />
+  <keyword word="utbyttet" place="2" sense="substitutt for" />
+  <keyword word="forhold for bytte" place="3" />
+</valsi>
+<valsi word="batci" type="gismu">
+  <rafsi>bat</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ biter/klemmer/trykker på $x_2$ ved spesifikt punkt $x_3$ med $x_4$</definition>
+  <definitionid>15928</definitionid>
+  <notes>Se også {denci}, {jgalu}, {guska}, {citka}, {jgari}, {zalvi}, {cinza}, {katna}.</notes>
+  <glossword word="bite" />
+  <glossword word="klemme" />
+  <glossword word="trykke på" />
+  <keyword word="biter" place="1" sense="bitende aktør" />
+  <keyword word="bitt" place="2" sense="har blitt bitt" />
+  <keyword word="bittsted" place="3" />
+  <keyword word="biteredskap" place="4" />
+</valsi>
+<valsi word="batke" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en knapp/knott/[håndtak] på/for objekt $x_2$, med formål/funksjon $x_3$, laget av materiale $x_4$</definition>
+  <definitionid>15929</definitionid>
+  <notes>Se også {jadni}, {bidju}, {balji}, {punji}, {jgari}, {lasna}, {lafti}, {lacpu}.</notes>
+  <glossword word="knapp" />
+  <glossword word="knott" />
+  <keyword word="knapp" place="1" />
+  <keyword word="har knapp" place="2" />
+  <keyword word="knappefunksjon" place="3" />
+  <keyword word="knappemateriale" place="4" />
+</valsi>
+<valsi word="bavmi" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en mengde bygg [korn] av type/stamme $x_2$</definition>
+  <definitionid>15931</definitionid>
+  <notes>Se også {gurni}.</notes>
+  <glossword word="bygg" sense="korn" />
+  <keyword word="bygg" place="1" sense="korn" />
+  <keyword word="byggtype" place="2" sense="korntype" />
+</valsi>
+<valsi word="baxso" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ reflekterer felles malaysisk og indonesisk kultur/språk i aspekt $x_2$</definition>
+  <definitionid>15932</definitionid>
+  <notes>Se også {meljo}, {bindo}.</notes>
+  <glossword word="Indonesisk" />
+  <glossword word="Malaysisk" />
+  <glossword word="Malaysisk-indonesisk" />
+  <keyword word="Malaysisk-indonesisk" place="1" />
+</valsi>
+<valsi word="bebna" type="gismu">
+  <rafsi>beb</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er tullete/tåpelig/dum i hendelse/handling/egenskap [dårskap] (ka) $x_2$; $x_1$ er et fjols</definition>
+  <definitionid>15933</definitionid>
+  <notes>Se også {fenki}, {xajmi}, {fliba}, og antonymet {prije}.</notes>
+  <glossword word="dum" />
+  <glossword word="fjols" />
+  <glossword word="tullete" />
+  <glossword word="tåpelig" />
+  <keyword word="fjols" place="1" />
+  <keyword word="dårskap" place="2" />
+</valsi>
+<valsi word="bemro" type="gismu">
+  <rafsi>bem</rafsi>
+  <rafsi>be&apos;o</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ reflekterer nord-amerikansk kultur/nasjonalitet/geografi i aspekt $x_2$</definition>
+  <definitionid>15934</definitionid>
+  <notes>Se også {kadno}, {merko}, {mexno}, {xispo}.</notes>
+  <glossword word="nord-amerikansk" />
+  <keyword word="nord-amerikansk" place="1" />
+  <keyword word="nord-amerikansk aspekt" place="2" />
+</valsi>
+<valsi word="bende" type="gismu">
+  <rafsi>bed</rafsi>
+  <rafsi>be&apos;e</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en gruppe/lag/gjeng bestående av personer $x_2$ ledet av $x_3$, organisert for formål/hensikt $x_4$</definition>
+  <definitionid>15936</definitionid>
+  <notes>($x_1$ er en masse; $x_2$ er helt spesifisert); også orkester (= {zgibe&apos;e}, {balzgibe&apos;e}). Se også {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.</notes>
+  <glossword word="gjeng" />
+  <glossword word="gruppe" />
+  <glossword word="lag" />
+  <glossword word="samlag" />
+  <keyword word="gruppe" place="1" />
+  <keyword word="gruppemedlemmer" place="2" />
+  <keyword word="gruppeleder" place="3" />
+  <keyword word="gruppeformål" place="4" />
+</valsi>
+<valsi word="bengo" type="gismu">
+  <rafsi>beg</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ reflekterer bengalsk/bangladeshisk kultur/nasjonalitet/språk i aspekt $x_2$</definition>
+  <definitionid>15937</definitionid>
+  <notes>Se også {xindo}.</notes>
+  <glossword word="bangladeshisk" />
+  <glossword word="bengalsk" />
+  <keyword word="bengalsk" place="1" />
+</valsi>
+<valsi word="benji" type="gismu">
+  <rafsi>bej</rafsi>
+  <rafsi>be&apos;i</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ overfører/sender $x_2$ til mottaker $x_3$ fra sender/kilde $x_4$ via vis/måte/medium $x_5$</definition>
+  <definitionid>15938</definitionid>
+  <notes>Også mulig &quot;deling&quot;; ingen (komplett) fremmedgjøring fra kilde er implisert. Se også {muvdu}, {dunda}, {vecnu}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja}, {bevri}, {mrilu}, {tcana}, {fukpi}, {cusku}, {be&apos;i}.</notes>
+  <glossword word="overføre" />
+  <glossword word="sende" />
+  <keyword word="sender" place="1" />
+</valsi>
+<valsi word="bersa" type="gismu">
+  <rafsi>bes</rafsi>
+  <rafsi>be&apos;a</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er sønn av mor/far/foreldre $x_2$ (ikke nødvendigvis biologisk)</definition>
+  <definitionid>15939</definitionid>
+  <notes>Se også {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.</notes>
+  <glossword word="guttebarn" />
+  <glossword word="sønn" />
+  <keyword word="sønn" place="1" />
+  <keyword word="forelder" place="2" sense="til en gutt" />
+</valsi>
+<valsi word="berti" type="gismu">
+  <rafsi>ber</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er nordlig/nord for/på den nordlige siden av $x_2$ i følge referansepunkt $x_3$</definition>
+  <definitionid>15940</definitionid>
+  <notes>Se også {snanu}, {stici}, {stuna}, {farna}.</notes>
+  <glossword word="nord" />
+  <keyword word="nord" place="1" />
+</valsi>
+<valsi word="besna" type="gismu">
+  <rafsi>ben</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en hjerne [kroppsdel] for $x_2$; [metafor: intelligens, mental kontroll]</definition>
+  <definitionid>15941</definitionid>
+  <notes>Se også {menli}, {stedu}, {rango}, {pensi}.</notes>
+  <glossword word="cerebral" />
+  <glossword word="hjerne" />
+  <keyword word="hjerne" place="1" />
+  <keyword word="besitter hjerne" place="2" />
+</valsi>
+<valsi word="betfu" type="gismu">
+  <rafsi>bef</rafsi>
+  <rafsi>be&apos;u</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en mage/magen tilhørende $x_2$</definition>
+  <definitionid>15942</definitionid>
+  <notes>Se også {cutne}, {livga}, {canti}, {gutra}, {balji}, {midju}.</notes>
+  <glossword word="mage" />
+  <keyword word="mage" place="1" />
+  <keyword word="har mage" place="2" />
+</valsi>
+<valsi word="betri" type="gismu">
+  <rafsi>bet</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en tragedie/katastrofe/er tragisk for $x_2$</definition>
+  <definitionid>15943</definitionid>
+  <notes>Se også {badri}, {xlali}, {morsi}, {binra}.</notes>
+  <glossword word="katastrofe" />
+  <glossword word="tragedie" />
+  <keyword word="tragedie" place="1" />
+  <keyword word="pårørende" place="2" />
+</valsi>
+<valsi word="bevri" type="gismu">
+  <rafsi>bev</rafsi>
+  <rafsi>bei</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ bærer/frakter/flytter/transporterer frakt $x_2$ til $x_3$ fra $x_4$ via trasé $x_5$; $x_1$ er en bærer</definition>
+  <definitionid>15945</definitionid>
+  <notes>Se også {marce}, {muvdu}, {benji}, {klama}.</notes>
+  <glossword word="bære" />
+  <glossword word="flytte" />
+  <glossword word="frakte" />
+  <glossword word="transportere" />
+  <keyword word="bærer" place="1" sense="flytteren av et objekt" />
+  <keyword word="frakt" place="2" />
+  <keyword word="fraktens bestemmelsessted" place="3" />
+  <keyword word="fraktens opprinnelsessted" place="4" />
+  <keyword word="fraktrute" place="5" />
+</valsi>
+<valsi word="bidju" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en perle/liten kule [form] av materiale $x_2$</definition>
+  <definitionid>15946</definitionid>
+  <notes>Se også {bolci}, {canre}, {lakse}, {dirgo}.</notes>
+  <glossword word="kule" sense="form" />
+  <glossword word="perle" />
+  <keyword word="perle" place="1" />
+  <keyword word="perlemateriale" place="2" />
+</valsi>
+<valsi word="bifce" type="gismu">
+  <rafsi>bic</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bie/geitehams/veps av type/familie $x_2$</definition>
+  <definitionid>15947</definitionid>
+  <notes>Se også {cinki}, {sfani}, {lakse}.</notes>
+  <glossword word="bie" />
+  <glossword word="geitehams" />
+  <glossword word="veps" />
+  <keyword word="veps" place="1" />
+  <keyword word="vepsefamilie" place="2" />
+</valsi>
+<valsi word="bikla" type="gismu">
+  <rafsi>bik</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ pisker/slår/smekker/sveiper (plutselig voldelig bevegelse)</definition>
+  <definitionid>15963</definitionid>
+  <notes>Se også {skori}, {darxi}.</notes>
+  <glossword word="piske" />
+  <glossword word="slå" sense="med rask bevegelse" />
+  <glossword word="smekke" sense="slå" />
+  <glossword word="sveipe" />
+</valsi>
+<valsi word="bilga" type="gismu">
+  <rafsi>big</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er bundet til/plikter å/må gjøre/være $x_2$ ved/etter standard/avtale $x_3$; $x_1$ må gjøre $x_2$</definition>
+  <definitionid>15964</definitionid>
+  <notes>$x_3$ er også referansepunkt. Se óg {zifre}, {fuzme}, {flalu}, {javni}, {ei}.</notes>
+  <glossword word="bundet" sense="moralsk eller følelsesmessig" />
+  <glossword word="må gjøre" />
+  <glossword word="plikt" />
+  <keyword word="plikter" place="1" />
+  <keyword word="plikthandling" place="2" />
+</valsi>
+<valsi word="bilma" type="gismu">
+  <rafsi>bi&apos;a</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er syk/smittet med symptomer $x_2$ fra sykdom $x_3$</definition>
+  <definitionid>15965</definitionid>
+  <notes>Se óg {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}, {cortu}, {xrani}.</notes>
+  <glossword word="smittet" />
+  <glossword word="syk" />
+  <keyword word="syk" place="1" />
+  <keyword word="sykdomssymptom" place="2" />
+  <keyword word="sykdom" place="3" />
+</valsi>
+<valsi word="bilni" type="gismu">
+  <rafsi>bil</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er miitært/regimentert/sterkt organisert/forberedt etter system $x_2$ for formål $x_3$</definition>
+  <definitionid>15966</definitionid>
+  <notes>Også paramilitært; soldat i den bredeste forståelsen, ikke bare innskrenket til de trent/organisert som en del av en hær for å forsvare en stat. Se også {jenmi}, {sonci}, {ganzu}, {ciste}, {pulji}, {jamna}, {damba}.</notes>
+  <glossword word="militær" />
+  <keyword word="militær" place="1" />
+  <keyword word="militært formål" place="3" />
+</valsi>
+<valsi word="bindo" type="gismu">
+  <rafsi>bid</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ reflekterer indonesisk kultur/nasjonalitet/språk i aspekt $x_2$</definition>
+  <definitionid>15967</definitionid>
+  <notes>Se óg {bindo}, {meljo}, {baxso}</notes>
+  <glossword word="Indonesisk" />
+  <keyword word="Indonesisk" place="1" />
+</valsi>
+<valsi word="binra" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ forsikrer $x_2$ (person) mot mot fare $x_3$ (hendelse) med fordeler $x_4$</definition>
+  <definitionid>15968</definitionid>
+  <notes>Se óg {binryve&apos;u} (selge/kjøpe forsikring) {binrydi&apos;a} (forsikringspremie), {bandu}, {cirko}, {betri}, {basti}, {bilma}.</notes>
+  <glossword word="forsikre" />
+  <keyword word="forsikrer" place="1" />
+  <keyword word="forsikret" place="2" />
+  <keyword word="forsikret mot hendelse" place="3" />
+</valsi>
+<valsi word="binxo" type="gismu">
+  <rafsi>bix</rafsi>
+  <rafsi>bi&apos;o</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ blir/forandres/konverterer/skifter til $x_2$ under forutsetninger $x_3$</definition>
+  <definitionid>15969</definitionid>
+  <notes>Resultativ, ikke nødvendigvis kausal forandring. Se óg {cenba} for ikke-resultativ forandring, {galfi} for kausal forandring, {stika} for ikke-resultativ og ikke-kausal forandring, {zasni}, na {stodi}, {banro}, {farvi}, {lidne}, {pruce}, {jalge}, {zifre}, {nibli}.</notes>
+  <glossword word="bli" />
+  <glossword word="forandre" />
+  <glossword word="transformere" />
+  <keyword word="foranderlig form" place="1" />
+  <keyword word="forandringsresultat" place="2" />
+</valsi>
+<valsi word="birje" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er laget av/inneholder/er en mengde øl brygget av $x_2$</definition>
+  <definitionid>15890</definitionid>
+  <notes>Se også {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.</notes>
+  <glossword word="øl" />
+  <keyword word="øl" place="1" />
+  <keyword word="ølingredienser" place="2" />
+</valsi>
+<valsi word="birka" type="gismu">
+  <rafsi>bir</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en arm [kroppsdel] på kropp $x_2$</definition>
+  <definitionid>15970</definitionid>
+  <notes>Óg albue (= {bircidni}), håndledd (= {xanterjo&apos;e}). Se også {jimca}, {janco}, {xance}, {rebla}.</notes>
+  <glossword word="arm" />
+  <keyword word="arm" place="1" />
+</valsi>
+<valsi word="birti" type="gismu">
+  <rafsi>bit</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er sikker/overbevist om at $x_2$ er sant.</definition>
+  <definitionid>15971</definitionid>
+  <notes>Se óg {jetnu}, {jinvi}, {krici}, {djuno}, {sruma}, {cilre}, {darlu}, {zgana}, {lifri}, {lacri}, {sitna}, na {smadi}, na {rivbi}, na {senpi}.</notes>
+  <glossword word="være overbevist" />
+  <glossword word="være sikker" />
+  <keyword word="sikker" place="1" />
+  <keyword word="sannhet" place="2" sense="betraktet som sant" />
+</valsi>
+<valsi word="bisli" type="gismu">
+  <rafsi>bis</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en mengde av/laget av/inneholder is (frosne krystaller) laget av frossent materiale $x_2$</definition>
+  <definitionid>15972</definitionid>
+  <notes>Se óg {kunra}, {runme}, {lenku}, {krili}, {bratu}, {snime}, {carvi}, {sligu}, {dunja}.</notes>
+  <glossword word="frost" />
+  <glossword word="is" />
+  <keyword word="is" place="1" />
+  <keyword word="frossent materiale" place="2" />
+</valsi>
+<valsi word="bitmu" type="gismu">
+  <rafsi>bim</rafsi>
+  <rafsi>bi&apos;u</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en mur/vegg/gjerde som separerer $x_2$ og $x_3$ som er organisert i struktur $x_4$</definition>
+  <definitionid>15973</definitionid>
+  <notes>Se óg {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.</notes>
+  <glossword word="gjerde" />
+  <glossword word="mur" />
+  <glossword word="skille" sense="fysisk separator" />
+  <glossword word="vegg" />
+  <keyword word="vegg" place="1" />
+  <keyword word="separert" place="2" sense="fysisk separert" />
+  <keyword word="separert" place="3" sense="fysisk separert" />
+  <keyword word="separert struktur" place="4" sense="fysisk separert" />
+</valsi>
+<valsi word="blabi" type="gismu">
+  <rafsi>lab</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er hvit/veldig lyst farget [fargeadjektiv]</definition>
+  <definitionid>15974</definitionid>
+  <notes>Kombinasjoner med andre farger, som {labyxu&apos;e} (= rosa), er lyse versjoner av andre farger. Se óg {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.</notes>
+  <glossword word="hvit" />
+  <glossword word="lyst farget" />
+  <keyword word="hvit" place="1" />
+</valsi>
+<valsi word="blaci" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en mengde/laget av/inneholder glass i en komposisjon $x_2$</definition>
+  <definitionid>15975</definitionid>
+  <notes>Se óg {kabri}.</notes>
+  <glossword word="glass" />
+  <keyword word="glass" place="1" />
+  <keyword word="glasskomposisjon" place="2" />
+</valsi>
+<valsi word="blanu" type="gismu">
+  <rafsi>bla</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er blå [fargeadjektiv]</definition>
+  <definitionid>15976</definitionid>
+  <notes>Se óg {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.</notes>
+  <glossword word="blå" />
+  <keyword word="blå" place="1" />
+</valsi>
+<valsi word="blari'o" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$c_1$ er blågønn (sjøgrønn)</definition>
+  <definitionid>14392</definitionid>
+  <glossword word="blågrønn" />
+  <glossword word="sjøgrønn" />
+</valsi>
+<valsi word="bliku" type="gismu">
+  <rafsi>bli</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en tredimensjonal kube av materiale $x_2$ med (som stort sett flate) overflater/sider $x_3$</definition>
+  <definitionid>15977</definitionid>
+  <notes>Se óg {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}, {bitmu}.</notes>
+  <glossword word="blokk" sense="form" />
+  <glossword word="kube" />
+  <keyword word="kube" place="1" />
+  <keyword word="kubemateriale" place="2" />
+  <keyword word="kubeside" place="3" />
+</valsi>
+<valsi word="bloti" type="gismu">
+  <rafsi>lot</rafsi>
+  <rafsi>blo</rafsi>
+  <rafsi>lo&apos;i</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en båt/skip/vanngående fremkomstmiddel/fartøy med last $x_2$ drevet av $x_3$</definition>
+  <definitionid>15978</definitionid>
+  <notes>Se òg {falnu}, {fulta}, {marce}, {jatna}, {sabnu}, {limna}, {bevri}.</notes>
+  <glossword word="båt" />
+  <glossword word="skip" />
+  <glossword word="vanngående fartøy" />
+  <keyword word="skip" place="1" />
+  <keyword word="skipslast" place="2" />
+  <keyword word="drivkraft for skip" place="3" />
+</valsi>
+<valsi word="bolci" type="gismu">
+  <rafsi>bol</rafsi>
+  <rafsi>boi</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en ball/kule/globe av materiale $x_2$</definition>
+  <definitionid>15979</definitionid>
+  <notes>Se óg {bliku}, {cukla}, {bidju}, {gunro}, {slanu}.</notes>
+  <glossword word="ball" />
+  <glossword word="globe" />
+  <glossword word="kule" sense="form" />
+  <keyword word="kule" place="1" sense="form" />
+  <keyword word="kulemateriale" place="2" />
+</valsi>
+<valsi word="bongu" type="gismu">
+  <rafsi>bog</rafsi>
+  <rafsi>bo&apos;u</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er et beindel/skjelett [[kroppsdel] som utfører funksjon $x_2$ i organisme $x_3$; [metafor: kalsium]</definition>
+  <definitionid>15983</definitionid>
+  <notes>$x_2$ er sannsynligvis abstrakt, kan være struktur/støtte for en kroppsdel. Se óg {greku}, {denci}, {jirna}, {sarji}, {calku}.</notes>
+  <glossword word="bein" sense="skjelett" />
+  <glossword word="beindel" />
+  <glossword word="skjelett" />
+  <keyword word="bein" place="1" sense="skjelett" />
+  <keyword word="skjelettfunksjon" place="2" />
+  <keyword word="har skjelett" place="3" />
+</valsi>
+<valsi word="botpi" type="gismu">
+  <rafsi>bot</rafsi>
+  <rafsi>bo&apos;i</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en flaske/krukke/urne/lukkbar beholder for $x_2$, laget av materiale $x_3$ med lokk/kork/topp $x_4$</definition>
+  <definitionid>15984</definitionid>
+  <notes>Se óg {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {kabri}, {dakli}, {gacri}.</notes>
+  <glossword word="beholder" sense="lukkbar" />
+  <glossword word="flaske" />
+  <glossword word="krukke" />
+  <glossword word="urne" />
+  <keyword word="flaske" place="1" />
+  <keyword word="flaskeinnhold" place="2" />
+  <keyword word="flaskemateriale" place="3" />
+  <keyword word="flaskekork" place="4" />
+</valsi>
+<valsi word="boxfo" type="gismu">
+  <rafsi>bof</rafsi>
+  <rafsi>bo&apos;o</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er folie/flate/plate/laken/ark/blad av materiale $x_2$; $x_1$ er et bredt og fleksibelt tynt stykke av $x_2$</definition>
+  <definitionid>15985</definitionid>
+  <notes>Se óg {plita}, {cinje}, {polje}, {slasi}, {tinci}, {bukpu}, {papri}, {falnu}, {senta}.</notes>
+  <glossword word="ark" />
+  <glossword word="flate" />
+  <glossword word="folie" />
+  <glossword word="plate" />
+  <glossword word="tynt materiale" />
+  <keyword word="folie" place="1" />
+  <keyword word="foliemateriale" place="2" />
+</valsi>
+<valsi word="boxna" type="gismu">
+  <rafsi>bon</rafsi>
+  <rafsi>bo&apos;a</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bølge [periodisk mønster] i medium $x_2$, med bølgeform $x_3$, bølgelengde $x_4$ og frekvens $x_5$</definition>
+  <definitionid>15986</definitionid>
+  <notes>Se óg {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.</notes>
+  <glossword word="bølge" />
+  <glossword word="repetivt mønster" />
+  <keyword word="bølge" place="1" />
+  <keyword word="bølgemedium" place="2" />
+  <keyword word="bølgeform" place="3" />
+  <keyword word="bølgelengde" place="4" />
+  <keyword word="bølgefrekvens" place="5" />
+</valsi>
+<valsi word="bradi" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en fiende/motstander av $x_2$ i strid $x_3$</definition>
+  <definitionid>15987</definitionid>
+  <notes>Se óg {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna}, {jinga}, {xebni}, {xrani}, {daspo}, {bandu}.</notes>
+  <glossword word="fiende" />
+  <glossword word="motstander" />
+  <keyword word="fiende" place="1" />
+  <keyword word="fiende av" place="2" />
+  <keyword word="strid" place="3" />
+</valsi>
+<valsi word="bratu" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er hagl/sludd/frossent regn/fast væske av material/komposisjon $x_2$</definition>
+  <definitionid>16097</definitionid>
+  <notes>Dette er substansen og ikke hendelsen å falle fra himmelen, som er {carvi}. Se og {snime}, {bisli}, {tcima}.</notes>
+  <glossword word="hagl" sense="frossent regn" />
+  <glossword word="sludd" />
+  <keyword word="hagl" place="1" sense="frossent regn" />
+  <keyword word="haglsammensetning" place="2" />
+</valsi>
+<valsi word="brazo" type="gismu">
+  <rafsi>raz</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ reflekterer brasiliansk kultur/nasjonalitet/språk i aspekt $x_2$</definition>
+  <definitionid>15988</definitionid>
+  <notes>Se óg {porto}, {ketco}.</notes>
+  <glossword word="brasiliansk" />
+  <keyword word="brasiliansk" place="1" />
+</valsi>
+<valsi word="bredi" type="gismu">
+  <rafsi>red</rafsi>
+  <rafsi>bre</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er klar/beredt for $x_2$ (hendelse)</definition>
+  <definitionid>15989</definitionid>
+  <notes>Se óg {spaji}, {jukpa}.</notes>
+  <glossword word="beredt" />
+  <glossword word="forberedt" />
+  <glossword word="klar" sense="beredt" />
+  <keyword word="beredt" place="1" />
+  <keyword word="beredt for" place="2" />
+</valsi>
+<valsi word="bridi" type="gismu">
+  <rafsi>bri</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ (du&apos;u) er en predikatrelasjon med relasjon $x_2$ mellom argumenter $x_3$ (ordnet sett)</definition>
+  <definitionid>15990</definitionid>
+  <notes>Også: $x_3$ er relatert ved relasjon $x_2$ ($x_3$ er et bestemt definert sett). Se óg {fancu}, {sumti}.</notes>
+  <glossword word="predikat" />
+  <keyword word="predikat" place="1" />
+  <keyword word="predikatrelasjon" place="2" />
+  <keyword word="predikatargumenter" place="3" />
+</valsi>
+<valsi word="brife" type="gismu">
+  <rafsi>bif</rafsi>
+  <rafsi>bi&apos;e</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bris/vind/blest fra retning/kant $x_2$ med fart/hastighet $x_3$; $x_1$ blåser fra $x_2$</definition>
+  <definitionid>16083</definitionid>
+  <notes>Se og {tcima}, {vacri} og {pagre}.</notes>
+  <glossword word="blest" />
+  <glossword word="bris" />
+  <glossword word="vind" />
+  <keyword word="bris" place="1" />
+  <keyword word="vindretning" place="2" />
+  <keyword word="vindhastighet" place="3" />
+</valsi>
+<valsi word="briju" type="gismu">
+  <rafsi>bij</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er et kontor/byrå/arbeidsplass for/med arbeider $x_2$ på sted/kontorlokale $x_3$</definition>
+  <definitionid>16084</definitionid>
+  <notes>Se og {jibri}, {gunka}, {stuzi}, {turni} og {nilce}.</notes>
+  <glossword word="byrå" sense="arbeidsplass" />
+  <glossword word="kontor" />
+  <keyword word="kontor" place="1" />
+  <keyword word="kontorist" place="2" />
+  <keyword word="kontorlokale" place="3" sense="sted" />
+</valsi>
+<valsi word="brito" type="gismu">
+  <rafsi>rit</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ reflekterer britisk kultur/nasjonalitet i aspekt $x_2$</definition>
+  <definitionid>16085</definitionid>
+  <notes>Se og {glico}, {skoto}, {merko} og {ropno}.</notes>
+  <glossword word="britisk" />
+  <keyword word="britisk" place="1" />
+  <keyword word="aspekt ved noe britisk" place="2" />
+</valsi>
+<valsi word="brivla" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$v_1$ er et predikatsord som uttrykker relasjon $b_2$ mellom argumenter $b_3$ i språk $v_3$</definition>
+  <definitionid>14343</definitionid>
+  <glossword word="predikatsord" />
+</valsi>
+<valsi word="bruna" type="gismu">
+  <rafsi>bun</rafsi>
+  <rafsi>bu&apos;a</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er bror/broderlig til $x_2$ gjennom bånd/tilknyning/forelder $x_3$</definition>
+  <definitionid>16086</definitionid>
+  <notes>$x_3$ er ikke nødvendigvis biologisk. Se og {mensi}, {tunba}, {tamne}, {famti}, {bersa}, {pendo}.</notes>
+  <glossword word="broderlig" />
+  <glossword word="bror" />
+  <keyword word="bror" place="1" />
+  <keyword word="broderlig referanse" place="2" />
+  <keyword word="broderbånd" place="3" />
+</valsi>
+<valsi word="budjo" type="gismu">
+  <rafsi>buj</rafsi>
+  <rafsi>bu&apos;o</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ reflekterer buddhistisk kultur/religion/tankesett/etikk i aspekt $x_2$</definition>
+  <definitionid>16087</definitionid>
+  <notes>Se og {latna}, {lijda}.</notes>
+  <glossword word="buddhistisk" />
+  <keyword word="buddhistisk" place="1" />
+  <keyword word="buddhistisk aspekt" place="2" />
+</valsi>
+<valsi word="bukpu" type="gismu">
+  <rafsi>buk</rafsi>
+  <rafsi>bu&apos;u</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er tøy/tekstiler/stoff av type/materiale $x_2$</definition>
+  <definitionid>16088</definitionid>
+  <notes>Se og {mapni}, {matli}, {sunla}, {slasi}, {silka}.</notes>
+  <glossword word="stoff" sense="tekstiler" />
+  <glossword word="tekstiler" />
+  <glossword word="tøy" sense="tekstiler" />
+  <keyword word="tekstiler" place="1" />
+  <keyword word="tekstilmateriale" place="2" />
+</valsi>
+<valsi word="bumru" type="gismu">
+  <rafsi>bum</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er tåkete/skoggete/dekket av vanndamp $x_2$</definition>
+  <definitionid>16089</definitionid>
+  <notes>Se og {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.</notes>
+  <glossword word="skogge" />
+  <glossword word="skoggete" />
+  <glossword word="tåke" />
+  <glossword word="tåkete" />
+  <keyword word="tåke" place="1" />
+  <keyword word="vanndamp" place="2" sense="i tåke" />
+</valsi>
+<valsi word="bunda" type="gismu">
+  <rafsi>bud</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ veier $x_2$ (standard: 1) i lokal ikke-metrisk vektenhet, standardenhet $x_3$, subenhet $x_4$</definition>
+  <definitionid>16090</definitionid>
+  <notes>(Ytterligere subenheter kan legges til som $x_5$, $x_6$ ...) Se og {grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.</notes>
+  <glossword word="bismer" />
+  <glossword word="bismermark" sense="vektenhet" />
+  <glossword word="gran" sense="vektenhet" />
+  <glossword word="kvintin" />
+  <glossword word="laup" sense="vektenhet" />
+  <glossword word="lodd" sense="vektenhet" />
+  <glossword word="mark" sense="vektenhet" />
+  <glossword word="nürenberggran" sense="vektenhet" />
+  <glossword word="ort" sense="vektenhet" />
+  <glossword word="pund" />
+  <glossword word="scrupel" />
+  <glossword word="skruppel" sense="vektenhet" />
+  <glossword word="tael" />
+  <glossword word="våg" sense="vektenhet" />
+  <glossword word="æs" sense="vektenhet" />
+</valsi>
+<valsi word="bunre" type="gismu">
+  <rafsi>bur</rafsi>
+  <rafsi>bu&apos;e</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er brun</definition>
+  <definitionid>16091</definitionid>
+  <notes>Se og {skari}, {blabi}, {xekri}, {kandi}, {carmi}.</notes>
+  <glossword word="brun" />
+  <glossword word="solbrun" sense="farge" />
+  <keyword word="brun" place="1" />
+</valsi>
+<valsi word="burcu" type="gismu">
+  <rafsi>bru</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en børste for formål $x_2$ (hendelse) med bust $x_3$</definition>
+  <definitionid>16092</definitionid>
+  <notes>Se og {komcu}, {pinsi}, {penbi}, {spali}, {lumci}.</notes>
+  <glossword word="børste" sense="redskap med bust" />
+  <glossword word="kost" sense="redskap med bust" />
+  <keyword word="børste" place="1" sense="redskap med bust" />
+  <keyword word="formål for børste" place="2" />
+  <keyword word="børstebust" place="3" />
+</valsi>
+<valsi word="burna" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er flau/utilpass/brydd/pinlig berørt over/under forhold $x_2$ (abstraksjon)</definition>
+  <definitionid>16093</definitionid>
+  <notes>Se og {cinmo}, {xanka}, {cfipu}, {zungi}, {steba}, {fanza}, na {kufra}.</notes>
+  <glossword word="brydd" />
+  <glossword word="flau" />
+  <glossword word="utilpass" />
+  <keyword word="flau" place="1" />
+  <keyword word="brydderi" place="2" />
+</valsi>
+<valsi word="citka" type="gismu">
+  <rafsi>cti</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ spiser/eter $x_2$</definition>
+  <definitionid>15892</definitionid>
+  <notes>Se også {batci}, {cidja}, {gusta}, {kabri}, {pinxe}, {tunlo}, {xagji} og {xaksu}.</notes>
+  <glossword word="ete" />
+  <glossword word="spise" />
+</valsi>
+<valsi word="ckafi" type="gismu">
+  <rafsi>kaf</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er laget av/inneholder/er en mengde kaffe fra bønne $x_2$</definition>
+  <definitionid>15889</definitionid>
+  <notes>Brygg basert på bønner eller frø, altså også sikorikaffe og koffeinfri kaffe. Se også {kafybarja}, {barja}, {cakla} og {tcati}.</notes>
+  <glossword word="kaffe" sense="drikke" />
+  <keyword word="kaffe" place="1" sense="drikke" />
+  <keyword word="kaffebønne" place="2" />
+</valsi>
+<valsi word="cmaplu" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$c_1=d_1$ er en holme av materiale $d_2$ i hav $d_3$, liten per standard $c_3$</definition>
+  <definitionid>14424</definitionid>
+  <glossword word="holme" />
+</valsi>
+<valsi word="co'e" type="cmavo">
+  <rafsi>com</rafsi>
+  <rafsi>co&apos;e</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>elliptisk/uspesifisert relasjon</definition>
+  <definitionid>13472</definitionid>
+  <glossword word="gjøre" />
+  <glossword word="holde på med" />
+  <glossword word="noe" />
+  <glossword word="være" />
+</valsi>
+<valsi word="ctuca" type="gismu">
+  <rafsi>ctu</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ lærer publikum $x_2$ i ideer/metode/lære $x_3$ (du&apos;u) om tema $x_4$ med metode/pedagogikk $x_5$ (hendelse)</definition>
+  <definitionid>15919</definitionid>
+  <notes>Også instruktør, lærer, instruere, lære bort, professor, pedagog; (adjective:) $x_1$/$x_5$ er pedagogisk. Se også {ckule}, {cilre}, {tadni}.</notes>
+  <glossword word="instruere" />
+  <glossword word="instruktør" />
+  <glossword word="lære bort" />
+  <glossword word="lærer" />
+  <glossword word="pedagog" />
+  <keyword word="instruktør" place="1" />
+  <keyword word="publikum" place="2" />
+  <keyword word="lære" place="3" />
+  <keyword word="læringstema" place="4" />
+  <keyword word="pedagogikk" place="5" />
+</valsi>
+<valsi word="cukyxratci" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$t_1$ er en passer som tegner/risser sirkel $c_1$</definition>
+  <definitionid>14255</definitionid>
+  <glossword word="passer" sense="instrument" />
+</valsi>
+<valsi word="cusku" type="gismu">
+  <rafsi>cus</rafsi>
+  <rafsi>sku</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ (agent) uttrykker/sier $x_2$ (se du&apos;u/tekst/lu&apos;e-konsept) til publikum/mottaker $x_3$ via medium $x_4$</definition>
+  <definitionid>13473</definitionid>
+  <glossword word="si" />
+  <glossword word="uttrykke" />
+  <keyword word="uttrykke" place="1" />
+  <keyword word="uttrykk" place="2" sense="noe som kommuniseres" />
+  <keyword word="mottaker" place="3" />
+  <keyword word="medium" place="4" sense="noe en kommuniserer via" />
+</valsi>
+<valsi word="djica" type="gismu">
+  <rafsi>dji</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ ønsker/vil ha/begjærer/higer etter $x_2$ (hendelse/tilstand) til formål $x_3$</definition>
+  <definitionid>14345</definitionid>
+  <glossword word="begjære" />
+  <glossword word="hige" />
+  <glossword word="ville" />
+  <glossword word="ønske" sense="ville" />
+</valsi>
+<valsi word="djuno" type="gismu">
+  <rafsi>jun</rafsi>
+  <rafsi>ju&apos;o</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ vet opplysning $x_2$ (du&apos;u) om tema $x_3$ per epistemologi $x_4$</definition>
+  <definitionid>14347</definitionid>
+  <glossword word="vite" />
+</valsi>
+<valsi word="gunka" type="gismu">
+  <rafsi>gun</rafsi>
+  <rafsi>gu&apos;a</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ [person] arbeider/jobber med $x_2$ [aktivitet] med målsetning $x_3$</definition>
+  <definitionid>13476</definitionid>
+  <glossword word="arbeide" />
+  <glossword word="jobbe" />
+  <keyword word="arbeide" place="1" />
+  <keyword word="arbeidsoppgave" place="2" />
+  <keyword word="målsetning" place="3" sense="for en arbeidsoppgave" />
+</valsi>
+<valsi word="jimpe" type="gismu">
+  <rafsi>jmi</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ forstår faktum/opplysning/sannhet $x_2$ (du&apos;u) om tema $x_3$; $x_1$ forstår (fi) $x_3$</definition>
+  <definitionid>14350</definitionid>
+  <glossword word="forstå" />
+</valsi>
+<valsi word="karce" type="gismu">
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er en bil/automobil/kjøretøy [et behjulet motorkjøretøy] for å frakte $x_2$, som drives på $x_3$</definition>
+  <definitionid>15893</definitionid>
+  <notes>Se også {carce}, {marce}, {sabnu} og {xislu}.</notes>
+  <glossword word="automobil" />
+  <glossword word="bil" />
+  <glossword word="kjøretøy" />
+  <keyword word="kjøretøy" place="1" />
+  <keyword word="vare" place="2" sense="objekt" />
+  <keyword word="drivstoff" place="3" />
+</valsi>
+<valsi word="klama" type="gismu">
+  <rafsi>kla</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ kommer/går/forflytter seg til bestemmelsessted $x_2$ fra opprinnelsessted $x_3$ via trasé $x_4$ ved hjelp av transportmiddel $x_5$</definition>
+  <definitionid>2449</definitionid>
+  <glossword word="komme" />
+  <keyword word="komme" place="1" />
+  <keyword word="bestemmelsessted" place="2" />
+  <keyword word="opprinnelsessted" place="3" />
+  <keyword word="trasé" place="4" />
+  <keyword word="transportmiddel" place="5" />
+</valsi>
+<valsi word="livla" type="gismu">
+  <rafsi>lil</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er drivstoff/energikilde for å drive $x_2$</definition>
+  <definitionid>15894</definitionid>
+  <notes>Se også {jelca}, {karce}, {nejni}, {xaksu}.</notes>
+  <glossword word="drivstoff" />
+  <glossword word="energikilde" />
+</valsi>
+<valsi word="makfartci" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ er et kompass med nål $x_2$</definition>
+  <definitionid>14209</definitionid>
+  <notes>Se også {maksi}, {terfarnilfrica}</notes>
+  <glossword word="kompass" />
+  <keyword word="kompass" place="1" />
+  <keyword word="kompassnål" place="2" />
+</valsi>
+<valsi word="mantygapci" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$g_1$ er karbonmonoksid</definition>
+  <definitionid>14546</definitionid>
+  <notes>Jf. {mantyslami}</notes>
+  <glossword word="karbonmonoksid" />
+</valsi>
+<valsi word="mantyslami" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$s_1$ er maursyre</definition>
+  <definitionid>14545</definitionid>
+  <notes>Se også {mantygapci}</notes>
+  <glossword word="maursyre" />
+</valsi>
+<valsi word="matne" type="gismu">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ er/inneholder smør/margarin fra kilde $x_2$</definition>
+  <definitionid>2447</definitionid>
+  <glossword word="smør" />
+  <keyword word="smør" place="1" />
+  <keyword word="smørkilde" place="2" />
+</valsi>
+<valsi word="mutce" type="gismu">
+  <rafsi>tce</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ er svært/veldig/særdeles i egenskap $x_2$ (ka), i retning av ytterpunkt $x_3$; $x_1$ er svært $x_3$ i $x_2$</definition>
+  <definitionid>13474</definitionid>
+  <glossword word="meget" sense="i stor grad" />
+  <glossword word="svært" sense="i stor grad" />
+  <glossword word="særdeles" />
+  <glossword word="veldig" />
+</valsi>
+<valsi word="nejni" type="gismu">
+  <rafsi>nen</rafsi>
+  <user>
+    <username>einar</username>
+    <realname>Einar Faanes (emuzesto)</realname>
+  </user>
+  <definition>$x_1$ er energi av type $x_2$ i form $x_3$</definition>
+  <definitionid>15895</definitionid>
+  <notes>Se også {kantu}, {lazni}, {livla}, {marji}, {tarmi}.</notes>
+  <glossword word="energi" />
+  <keyword word="energi" place="1" />
+  <keyword word="energitype" place="2" />
+  <keyword word="energiform" place="3" />
+</valsi>
+<valsi word="pampe'o" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$pr_1=pe_1$ er kjæreste til $pr_2=pe_2$</definition>
+  <definitionid>14547</definitionid>
+  <notes>Jf. {prami}, {pendo}, {pampe&apos;o}, {cinse}</notes>
+  <glossword word="kjæreste" />
+</valsi>
+<valsi word="pavyseljirna" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ er en enhjørning</definition>
+  <definitionid>15171</definitionid>
+  <glossword word="enhjørning" />
+</valsi>
+<valsi word="pilno" type="gismu">
+  <rafsi>pli</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ bruker/benytter $x_2$ [verktøy, apparat, maskin, agent, materiale] til formål/hensikt $x_3$</definition>
+  <definitionid>14344</definitionid>
+  <glossword word="benytte" />
+  <glossword word="bruke" />
+</valsi>
+<valsi word="pinxe" type="gismu">
+  <rafsi>pix</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ (agent) drikker drikke/væske $x_2$ ut av/fra $x_3$</definition>
+  <definitionid>15900</definitionid>
+  <notes>Se også {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.</notes>
+  <glossword word="drikke" sense="ta til seg væske" />
+  <keyword word="drikke" place="1" sense="ta til seg væske" />
+  <keyword word="drikke" place="2" sense="væske" />
+</valsi>
+<valsi word="prenu" type="gismu">
+  <rafsi>pre</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ er en person/folk [ikke nødvendigvis menneskelig]; $x_1$ har personlighet/persona</definition>
+  <definitionid>14348</definitionid>
+  <glossword word="folk" />
+  <glossword word="person" />
+</valsi>
+<valsi word="selcme" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$c_2$ kalles $c_1$ av $c_3$; $c_2$ heter $c_1$</definition>
+  <definitionid>13107</definitionid>
+  <glossword word="hete" sense="ha navnet" />
+  <glossword word="kalles" />
+</valsi>
+<valsi word="tavla" type="gismu">
+  <rafsi>tav</rafsi>
+  <rafsi>ta&apos;a</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ snakker/taler til $x_2$ om $x_3$ på språk $x_4$</definition>
+  <definitionid>13477</definitionid>
+  <glossword word="fortelle" />
+  <glossword word="snakke" />
+  <glossword word="tale" sense="snakke" />
+  <keyword word="taler" place="1" />
+  <keyword word="mottaker" place="2" />
+  <keyword word="tema" place="3" />
+</valsi>
+<valsi word="tisycanti" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$t_1=c_1$ er pølse med $t_2$ i</definition>
+  <definitionid>15161</definitionid>
+  <glossword word="pølse" sense="mat" />
+</valsi>
+<valsi word="vudvri" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$vr_1=vi_1$ er en helt/heltemodig pga. å ha gjort $vi_2$ per standard $vr_2=vi_3$</definition>
+  <definitionid>14830</definitionid>
+  <glossword word="helt" />
+  <glossword word="heltemodig" />
+  <keyword word="helt" place="1" />
+  <keyword word="heltedåd" place="2" />
+</valsi>
+<valsi word="zbasu" type="gismu">
+  <rafsi>zba</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ lager/setter sammen/bygger/tilvirker/skaper $x_2$ av materialer/deler/komponenter $x_3$</definition>
+  <definitionid>15380</definitionid>
+  <notes>Se også {cupra}, {larcu}, {rutni}, {finti}, {gundi}.</notes>
+  <glossword word="lage" />
+  <glossword word="sammensette" />
+  <glossword word="sette sammen" />
+  <glossword word="tilvirke" />
+  <keyword word="lage" place="1" />
+  <keyword word="konstruksjon" place="2" sense="innretning" />
+  <keyword word="materiale" place="3" sense="i sammensetning" />
+</valsi>
+<valsi word="zerjbera" type="lujvo">
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$j_1$ tyvlåner $j_2$ fra kilde $j_3$, som er galt i følge $z_2$</definition>
+  <definitionid>14410</definitionid>
+  <notes>Jf. {zerle&apos;a}, {jbera}</notes>
+  <glossword word="tyvlåne" />
+</valsi>
+<valsi word="zvati" type="gismu">
+  <rafsi>zva</rafsi>
+  <user>
+    <username>arj</username>
+    <realname>Arnt Richard Johansen</realname>
+  </user>
+  <definition>$x_1$ er til stede/foregår i/ved/på $x_2$ (hendelse/sted)</definition>
+  <definitionid>13475</definitionid>
+  <glossword word="foregå" />
+  <glossword word="fremmøtt" />
+  <glossword word="til stede" />
+  <keyword word="til stede" place="1" />
+  <keyword word="sted" place="2" />
+</valsi>
+</direction><direction from="norsk" to="lojban"><nlword word="artikulere" valsi="bacru" />
+<nlword word="uttale" sense="si" valsi="bacru" />
+<nlword word="bar" valsi="barja" />
+<nlword word="drikke" sense="objekt" valsi="barja" place="2" />
+<nlword word="kro" valsi="barja" />
+<nlword word="pub" valsi="barja" />
+<nlword word="øl" valsi="birje" />
+<nlword word="blågrønn" valsi="blari&apos;o" />
+<nlword word="sjøgrønn" valsi="blari&apos;o" />
+<nlword word="båt" valsi="bloti" />
+<nlword word="drivkraft for skip" valsi="bloti" place="3" />
+<nlword word="skip" valsi="bloti" place="1" />
+<nlword word="skipslast" valsi="bloti" place="2" />
+<nlword word="vanngående fartøy" valsi="bloti" />
+<nlword word="predikat" valsi="bridi" place="1" />
+<nlword word="predikatargumenter" valsi="bridi" place="3" />
+<nlword word="predikatrelasjon" valsi="bridi" place="2" />
+<nlword word="predikatsord" valsi="brivla" />
+<nlword word="kaffe" sense="drikke" valsi="ckafi" />
+<nlword word="holme" valsi="cmaplu" />
+<nlword word="gjøre" valsi="co&apos;e" />
+<nlword word="holde på med" valsi="co&apos;e" />
+<nlword word="noe" valsi="co&apos;e" />
+<nlword word="være" valsi="co&apos;e" />
+<nlword word="passer" sense="instrument" valsi="cukyxratci" />
+<nlword word="medium" sense="noe en kommuniserer via" valsi="cusku" place="4" />
+<nlword word="mottaker" valsi="cusku" place="3" />
+<nlword word="si" valsi="cusku" />
+<nlword word="uttrykk" sense="noe som kommuniseres" valsi="cusku" place="2" />
+<nlword word="uttrykke" valsi="cusku" />
+<nlword word="begjære" valsi="djica" />
+<nlword word="hige" valsi="djica" />
+<nlword word="ville" valsi="djica" />
+<nlword word="ønske" sense="ville" valsi="djica" />
+<nlword word="vite" valsi="djuno" />
+<nlword word="arbeide" valsi="gunka" />
+<nlword word="arbeidsoppgave" valsi="gunka" place="2" />
+<nlword word="jobbe" valsi="gunka" />
+<nlword word="målsetning" sense="for en arbeidsoppgave" valsi="gunka" place="3" />
+<nlword word="forstå" valsi="jimpe" />
+<nlword word="bestemmelsessted" valsi="klama" place="2" />
+<nlword word="komme" valsi="klama" />
+<nlword word="opprinnelsessted" valsi="klama" place="3" />
+<nlword word="transportmiddel" valsi="klama" place="5" />
+<nlword word="trasé" valsi="klama" place="4" />
+<nlword word="kompass" valsi="makfartci" />
+<nlword word="kompassnål" valsi="makfartci" place="2" />
+<nlword word="karbonmonoksid" valsi="mantygapci" />
+<nlword word="maursyre" valsi="mantyslami" />
+<nlword word="smør" valsi="matne" />
+<nlword word="smørkilde" valsi="matne" place="2" />
+<nlword word="meget" sense="i stor grad" valsi="mutce" />
+<nlword word="svært" sense="i stor grad" valsi="mutce" />
+<nlword word="særdeles" valsi="mutce" />
+<nlword word="veldig" valsi="mutce" />
+<nlword word="kjæreste" valsi="pampe&apos;o" />
+<nlword word="benytte" valsi="pilno" />
+<nlword word="bruke" valsi="pilno" />
+<nlword word="drikke" sense="ta til seg væske" valsi="pinxe" />
+<nlword word="drikke" sense="væske" valsi="pinxe" place="2" />
+<nlword word="folk" valsi="prenu" />
+<nlword word="person" valsi="prenu" />
+<nlword word="hete" sense="ha navnet" valsi="selcme" />
+<nlword word="kalles" valsi="selcme" />
+<nlword word="fortelle" valsi="tavla" />
+<nlword word="snakke" valsi="tavla" />
+<nlword word="tale" sense="snakke" valsi="tavla" />
+<nlword word="taler" valsi="tavla" place="1" />
+<nlword word="tema" valsi="tavla" place="3" />
+<nlword word="helt" valsi="vudvri" />
+<nlword word="heltedåd" valsi="vudvri" place="2" />
+<nlword word="heltemodig" valsi="vudvri" />
+<nlword word="konstruksjon" sense="innretning" valsi="zbasu" place="2" />
+<nlword word="lage" valsi="zbasu" />
+<nlword word="materiale" sense="i sammensetning" valsi="zbasu" place="3" />
+<nlword word="sammensette" valsi="zbasu" />
+<nlword word="sette sammen" valsi="zbasu" />
+<nlword word="tilvirke" valsi="zbasu" />
+<nlword word="tyvlåne" valsi="zerjbera" />
+<nlword word="foregå" valsi="zvati" />
+<nlword word="fremmøtt" valsi="zvati" />
+<nlword word="sted" valsi="zvati" place="2" />
+<nlword word="til stede" valsi="zvati" />
+</direction></dictionary>
+
+
+
+
+
