@@ -3,9 +3,7 @@
 package main
 
 import (
-	"compress/gzip"
-	"encoding/base64"
-	"encoding/gob"
+	"bytes"
 	"encoding/xml"
 	"io"
 	"log"
@@ -23,13 +21,13 @@ func main() {
 	}
 	sort.Strings(matches)
 
-	var dictionary jbovlaste.Dictionary
+	var dict jbovlaste.Dictionary
 	for _, name := range matches {
 		d, err := read(name)
 		if err != nil {
 			log.Panicln(name, err)
 		}
-		dictionary.Direction = append(dictionary.Direction, d.Direction...)
+		dict.Direction = append(dict.Direction, d.Direction...)
 	}
 
 	f, err := os.Create("jbovlaste.gen.go")
@@ -41,9 +39,7 @@ func main() {
 	_, err = f.WriteString(`package jbovlaste
 
 import (
-	"compress/gzip"
-	"encoding/base64"
-	"encoding/gob"
+	"encoding/xml"
 	"strings"
 	"sync"
 )
@@ -53,23 +49,21 @@ var once sync.Once
 
 func all() *Dictionary {
 	once.Do(func() {
-		r, err := gzip.NewReader(base64.NewDecoder(base64.StdEncoding, strings.NewReader(` + "`\n")
+		err := xml.NewDecoder(strings.NewReader(` + "`" + xml.Header)
 	if err != nil {
 		log.Panicln(err)
 	}
 
-	err = compress(f, dictionary)
+	type dictionary jbovlaste.Dictionary
+
+	enc := xml.NewEncoder(backtickWriter{f})
+	enc.Indent("", "\t")
+	err = enc.Encode((*dictionary)(&dict))
 	if err != nil {
 		log.Panicln(err)
 	}
 
-	_, err = f.WriteString("`" + `)))
-		if err != nil {
-			panic(err)
-		}
-		defer r.Close()
-
-		err = gob.NewDecoder(r).Decode(&jbovlaste)
+	_, err = f.WriteString("`" + `)).Decode(&jbovlaste)
 		if err != nil {
 			panic(err)
 		}
@@ -94,79 +88,41 @@ func read(name string) (d jbovlaste.Dictionary, err error) {
 	return
 }
 
-func compress(w io.Writer, d jbovlaste.Dictionary) (err error) {
-	wrap := &wrapWriter{w: w, n: 79}
-	defer errHelper(wrap.Close, &err)
-
-	b64 := base64.NewEncoder(base64.StdEncoding, wrap)
-	defer errHelper(b64.Close, &err)
-
-	gz, err := gzip.NewWriterLevel(b64, gzip.BestCompression)
-	if err != nil {
-		return err
-	}
-	defer errHelper(gz.Close, &err)
-
-	err = gob.NewEncoder(gz).Encode(&d)
-	return
-}
-
 func errHelper(f func() error, err *error) {
 	if e := f(); *err == nil {
 		*err = e
 	}
 }
 
-var newline = []byte{'\n'}
+var backtick = []byte("`")
+var backtickEnt = []byte("&#96;")
 
-// wrap every n bytes with a newline.
-type wrapWriter struct {
-	w io.Writer
-	n int
-	i int
-}
+type backtickWriter struct{ io.Writer }
 
-func (w *wrapWriter) Write(p []byte) (n int, err error) {
+func (w backtickWriter) Write(p []byte) (n int, err error) {
 	var nn int
-	for w.i+len(p) > w.n {
-		nn, err = w.w.Write(p[:w.n-w.i])
+
+	for i, b := range bytes.Split(p, backtick) {
+		if i != 0 {
+			nn, err = w.Writer.Write(backtickEnt)
+			if nn != len(backtickEnt) && err == nil {
+				err = io.ErrShortWrite
+			}
+			if err != nil {
+				return
+			}
+			n += len(backtick)
+		}
+
+		nn, err = w.Writer.Write(b)
+		if nn != len(b) && err == nil {
+			err = io.ErrShortWrite
+		}
 		n += nn
-		if nn != w.n-w.i && err == nil {
-			err = io.ErrShortWrite
-		}
 		if err != nil {
 			return
 		}
-		nn, err = w.w.Write(newline)
-		if nn != len(newline) && err == nil {
-			err = io.ErrShortWrite
-		}
-		if err != nil {
-			return
-		}
-		p = p[w.n-w.i:]
-		w.i = 0
 	}
 
-	nn, err = w.w.Write(p)
-	n += nn
-	w.i += len(p)
-	if nn != len(p) && err == nil {
-		err = io.ErrShortWrite
-	}
 	return
-}
-
-func (w *wrapWriter) Close() error {
-	if w.i != 0 {
-		n, err := w.w.Write(newline)
-		if n != len(newline) && err == nil {
-			err = io.ErrShortWrite
-		}
-		if err != nil {
-			return err
-		}
-		w.i = 0
-	}
-	return nil
 }
