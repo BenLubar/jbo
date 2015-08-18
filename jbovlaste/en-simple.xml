@@ -3495,16 +3495,6 @@
   <keyword word="a subject of information" place="2" />
   <keyword word="an information gathering method" place="3" />
 </valsi>
-<valsi unofficial="true" word="datru" type="experimental gismu">
-  <user>
-    <username>gleki</username>
-    <realname>gleki</realname>
-  </user>
-  <definition>$x_1$ (event) is occurring on day $x_2$ of month $x_3$ of year $x_4$ in calendar $x_5$</definition>
-  <definitionid>54906</definitionid>
-  <glossword word="date" />
-  <keyword word="date" place="1" />
-</valsi>
 <valsi word="decti" type="gismu">
   <rafsi>dec</rafsi>
   <user>
@@ -18319,7 +18309,6 @@
 <nlword word="a subject of information" valsi="datni" place="2" />
 <nlword word="an information gathering method" valsi="datni" place="3" />
 <nlword word="information" valsi="datni" />
-<nlword word="date" valsi="datru" />
 <nlword word="a tenth" valsi="decti" />
 <nlword word="an aspect of a tenth" valsi="decti" place="3" />
 <nlword word="something measured in tenths" valsi="decti" place="2" />

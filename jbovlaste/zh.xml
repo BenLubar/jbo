@@ -3264,15 +3264,6 @@
   <definitionid>53526</definitionid>
   <notes>证据= velji&apos;i datni或只是 {velji&apos;i}, {sidydatni}；参见 {fatci}, {saske}, {vreji}.</notes>
 </valsi>
-<valsi unofficial="true" word="datru" type="experimental gismu">
-  <user>
-    <username>gleki</username>
-    <realname>gleki</realname>
-  </user>
-  <definition>$x_1$（事件）发生在/处于时间日期$x_2$，月份$x_3$，年份$x_4$，以历法$x_5$</definition>
-  <definitionid>53527</definitionid>
-  <notes>{detri}是不能够表示某些独立的时间系统的，{pi&apos;e}或{joi}的使用也存在不足，而将时间元素构建到位结构之中又显得非常繁杂；参见 {masti}, {djedi}, {nanca}, {nu}, {fasnu}, {purci}, {balvi}, {jeftu})</notes>
-</valsi>
 <valsi word="decti" type="gismu">
   <rafsi>dec</rafsi>
   <user>

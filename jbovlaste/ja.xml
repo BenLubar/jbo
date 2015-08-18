@@ -4240,22 +4240,6 @@
   <definitionid>39472</definitionid>
   <notes>・大意： 情報 ・読み方： ダトニ  ・関連語： {fatci}, {saske}, {vreji}</notes>
 </valsi>
-<valsi unofficial="true" word="datru" type="experimental gismu">
-  <user>
-    <username>cogas</username>
-    <realname>Shotaro</realname>
-  </user>
-  <definition>$x_1$ （事）は $x_2$ （日）・ $x_3$ （月）・ $x_4$ （年）・ $x_5$ （暦） の日付 （に生じる）</definition>
-  <definitionid>64200</definitionid>
-  <notes>{detri} は十分に文化中立的な日付システムとして機能していないという声がある。さらに日付の機構に{pi&apos;e}や{joi}を使うのは不十分であり、日・月・年の要素をそれぞれPSに設けたほうがより一層すっきりしているように思われる。　・関連語： {masti}, {djedi}, {nanca}, {nu}, {fasnu}, {purci}, {balvi}, {jeftu}</notes>
-  <glossword word="日付" />
-  <glossword word="生じる" sense="ある日付に" />
-  <keyword word="出来事" place="1" sense="ある日付に生じる出来事" />
-  <keyword word="日" place="2" sense="～日に" />
-  <keyword word="月" place="3" sense="～月に" />
-  <keyword word="年" place="4" sense="～年に" />
-  <keyword word="日付の暦" place="5" />
-</valsi>
 <valsi word="dau" type="cmavo">
   <selmaho>PA2</selmaho>
   <user>
@@ -5085,9 +5069,11 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （温度）・ $x_3$ （圧力）で凍る；  $x_1$ は凍っている</definition>
+  <definition>$x_1$ は $x_2$ （温度）・ $x_3$ （圧力）で凍る／凝固する／固まる；  $x_1$ は凍っている</definition>
   <definitionid>39506</definitionid>
   <notes>・大意： 凍る ・読み方： ドゥンジャ  ・関連語： {febvi}, {lunsa}, {runme}, {sligu}</notes>
+  <glossword word="凍る" />
+  <glossword word="固まる" />
 </valsi>
 <valsi word="dunku" type="gismu">
   <rafsi>duk</rafsi>
@@ -17742,9 +17728,11 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （温度）と $x_3$ （圧力）において溶解する；  $x_1$ は溶ける</definition>
+  <definition>$x_1$ は $x_2$ （温度）と $x_3$ （圧力）において融解する；  $x_1$ は溶ける</definition>
   <definitionid>40061</definitionid>
   <notes>・大意： 溶ける ・読み方： ルンメ  ・語呂合わせ： とけるン目 ・関連語： {dunja}, {febvi}, {lunsa}, {bisli}</notes>
+  <glossword word="溶ける" />
+  <glossword word="融解する" />
 </valsi>
 <valsi word="runta" type="gismu">
   <user>
@@ -26001,13 +25989,6 @@
 <nlword word="強奪する" sense="物品" valsi="daskyle&apos;a" />
 <nlword word="盗む" sense="物品" valsi="daskyle&apos;a" />
 <nlword word="着る" sense="着ている" valsi="dasni" />
-<nlword word="出来事" sense="ある日付に生じる出来事" valsi="datru" place="1" />
-<nlword word="年" sense="～年に" valsi="datru" place="4" />
-<nlword word="日" sense="～日に" valsi="datru" place="2" />
-<nlword word="日付" valsi="datru" />
-<nlword word="日付の暦" valsi="datru" place="5" />
-<nlword word="月" sense="～月に" valsi="datru" place="3" />
-<nlword word="生じる" sense="ある日付に" valsi="datru" />
 <nlword word="デカ" sense="10の指数" valsi="dekto" />
 <nlword word="十" sense="10の指数" valsi="dekto" />
 <nlword word="地上" valsi="dergapru" />
