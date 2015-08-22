@@ -263,6 +263,15 @@
   <definitionid>64441</definitionid>
   <glossword word="amfora" />
 </valsi>
+<valsi word="amnadiia" type="fu'ivla">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ tcetce lo ka se manci $x_2$ kei xoi ka&apos;e mukti lo nu $x_2$ cumla</definition>
+  <definitionid>67644</definitionid>
+  <notes>srana fa zo {tcetce} .e zo {manci} .e zo {mukti} .e zo {cumla} .e lu {u&apos;e}{cai} li&apos;u</notes>
+</valsi>
 <valsi word="anji'i" type="fu'ivla">
   <user>
     <username>selpahi</username>
@@ -4738,6 +4747,14 @@
   <definitionid>64372</definitionid>
   <notes>{citsi}; {lekyze&apos;a}; {crisa}; {dunra}; {vensa}</notes>
 </valsi>
+<valsi word="crofanta" type="lujvo">
+  <user>
+    <username>cogas</username>
+    <realname>Shotaro</realname>
+  </user>
+  <definition>$x_1=f_1$ fanta lo nu $x_2=c_2$ se cortu $x_3=c_3$</definition>
+  <definitionid>67646</definitionid>
+</valsi>
 <valsi word="ctaru" type="gismu">
   <user>
     <username>xorxes</username>
@@ -5515,6 +5532,14 @@
   <definition>$x_1$ datni $x_2$ po&apos;u lo datni ge&apos;u $x_3$</definition>
   <definitionid>57398</definitionid>
   <notes>.e&apos;u ko tcidu tu&apos;a zo {datni}</notes>
+</valsi>
+<valsi word="datpre" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ prenu gi&apos;e drata $x_2$</definition>
+  <definitionid>67691</definitionid>
 </valsi>
 <valsi word="dau" type="cmavo">
   <selmaho>PA2</selmaho>
@@ -6373,6 +6398,15 @@
   <notes>{selsku} {sumka&apos;i}</notes>
   <glossword word="do&apos;i" />
 </valsi>
+<valsi word="doinai" type="cmavo-compound">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>tcita lo cmene ja ve skicu lo du&apos;u sinxa lo du&apos;u makau ba&apos;e *na* te cusku</definition>
+  <definitionid>67692</definitionid>
+  <notes>se smuni lo natfe be tau&apos;e zo {doi} .i na gendra ma&apos;i lo catni gerna .i gendra ma&apos;i lo cipra gerna</notes>
+</valsi>
 <valsi word="donri" type="gismu">
   <rafsi>dor</rafsi>
   <rafsi>do&apos;i</rafsi>
@@ -7071,6 +7105,14 @@
   <notes>srana fa zo {plini} .e zo {solri} .e zo {tarci} .e zo {ekso} .e zo {ciste}</notes>
   <glossword word="eksyplini" />
 </valsi>
+<valsi word="elsa'a" type="fu'ivla">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ selsa&apos;a zi&apos;o zi&apos;o gi&apos;e mintu $x_2$ noi zgike joi $x_3$ noi pemci</definition>
+  <definitionid>67664</definitionid>
+</valsi>
 <valsi word="emna" type="fu'ivla">
   <user>
     <username>selpahi</username>
@@ -7209,6 +7251,14 @@
   <notes>{farna}</notes>
   <glossword word="fa&apos;a" />
 </valsi>
+<valsi word="facfau" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ fasnu gi&apos;e se facmu&apos;e</definition>
+  <definitionid>67671</definitionid>
+</valsi>
 <valsi word="facki" type="gismu">
   <rafsi>fak</rafsi>
   <rafsi>fa&apos;i</rafsi>
@@ -7219,6 +7269,22 @@
   <definition>$x_1$ co&apos;a djuno $x_2$ boi $x_3$ .i $x_1$ binxo lo djuno be $x_2$ bei $x_3$ .i cfari fa lo nu $x_1$ djuno $x_2$ boi $x_3$ </definition>
   <definitionid>64332</definitionid>
   <notes>{djuno} .i {binxo} .i {cfari}</notes>
+</valsi>
+<valsi word="facmu'e" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ munje $x_2$ noi me ro da poi fatci ku po&apos;o ku&apos;o $x_3$</definition>
+  <definitionid>67669</definitionid>
+</valsi>
+<valsi word="facyza'i" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ zasti lo facmu&apos;e</definition>
+  <definitionid>67670</definitionid>
 </valsi>
 <valsi word="fadni" type="gismu">
   <rafsi>fad</rafsi>
@@ -10990,6 +11056,14 @@
   <definitionid>65590</definitionid>
   <notes>srana fa zo {prenu} .e zo {lojbo}</notes>
 </valsi>
+<valsi word="jbosarxe" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ sarxe lo&apos;e te flese ja se pensi ja kulnu poi lojbo ku $x_2$</definition>
+  <definitionid>67647</definitionid>
+</valsi>
 <valsi word="jboselkei" type="lujvo">
   <user>
     <username>gusnikantu</username>
@@ -12996,6 +13070,14 @@
   <definition>$x_1$ jai se morna lo cunso ja to&apos;e te ganzu fai $x_2$ .i $x_1$ to&apos;e cnici $x_2$</definition>
   <definitionid>64971</definitionid>
   <notes>{morna}; {cunso}; {ganzu}; {cnici}</notes>
+</valsi>
+<valsi word="kamcedu" type="fu'ivla">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ ka ce&apos;u du $x_2$</definition>
+  <definitionid>67687</definitionid>
 </valsi>
 <valsi word="kamdu'o" type="lujvo">
   <user>
@@ -15261,6 +15343,14 @@
   <notes>{velski} {gadri}; {selcmi}; {lu&apos;i} {le}</notes>
   <glossword word="le&apos;i" />
 </valsi>
+<valsi word="leicmi" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ cmima ja se gunma ja menre $x_2$ noi klesi $x_3$ $x_4$</definition>
+  <definitionid>67700</definitionid>
+</valsi>
 <valsi word="lekselblu" type="lujvo">
   <user>
     <username>xorxes</username>
@@ -15649,6 +15739,14 @@
   <definitionid>64912</definitionid>
   <notes>{sabji}; {nejni}</notes>
 </valsi>
+<valsi word="lizdu'o" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ li&apos;imdu lo ka ce&apos;u du $x_2$ kei $x_2$</definition>
+  <definitionid>67689</definitionid>
+</valsi>
 <valsi word="lo" type="cmavo">
   <selmaho>LE</selmaho>
   <user>
@@ -15743,6 +15841,14 @@
   <definition>$x_1$ ckini lo kulnu ja bangu ja cecmu pe la .lojban. x2</definition>
   <definitionid>65263</definitionid>
   <notes>{ckini}; {kulnu}; {bangu}; {cecmu}</notes>
+</valsi>
+<valsi word="lojysarxe" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ sarxe lo&apos;e logji $x_2$</definition>
+  <definitionid>67697</definitionid>
 </valsi>
 <valsi word="loldi" type="gismu">
   <rafsi>lol</rafsi>
@@ -17287,6 +17393,14 @@
   <definitionid>65523</definitionid>
   <notes>{kulnu}; {bangu}; {cecmu}; {natmi}; {bangaruzu}; {gugde&apos;egu}; {xrabo}; {friko}</notes>
 </valsi>
+<valsi word="misygautoi" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ troci lo ka gasnu lo nu $x_2$ misno $x_3$</definition>
+  <definitionid>67677</definitionid>
+</valsi>
 <valsi word="mitfa'i" type="lujvo">
   <user>
     <username>Ilmen</username>
@@ -18121,6 +18235,14 @@
   <notes>{lerfu} {cenba} {fanmo}</notes>
   <glossword word="na&apos;a" />
 </valsi>
+<valsi word="na'akti" type="fu'ivla">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ na&apos;e akti $x_2$</definition>
+  <definitionid>67704</definitionid>
+</valsi>
 <valsi word="na'arctodetri" type="lujvo">
   <user>
     <username>gusnikantu</username>
@@ -18946,6 +19068,16 @@
   <definitionid>2671</definitionid>
   <notes>{jibni}</notes>
   <glossword word="ne&apos;a" />
+</valsi>
+<valsi unofficial="true" word="ne'e" type="experimental cmavo">
+  <selmaho>CAI</selmaho>
+  <user>
+    <username>junpen</username>
+    <realname>okaujunpen</realname>
+  </user>
+  <definition>galfi lo cmavo be ma&apos;oi .ui .e lo cmavo be ma&apos;oi coi lo dukti be fi lo ka ce&apos;u se smuni ma kau</definition>
+  <definitionid>67672</definitionid>
+  <notes>{dukti}</notes>
 </valsi>
 <valsi word="nei" type="cmavo">
   <selmaho>GOhA</selmaho>
@@ -27162,8 +27294,16 @@
     <username>spheniscine</username>
     <realname>Jonathan</realname>
   </user>
-  <definition>$x_1$ su&apos;u me&apos;au du&apos;au $x_2$</definition>
+  <definition>$x_1$ su&apos;u me&apos;au du&apos;au $x_2$ kei $x_3$</definition>
   <definitionid>67098</definitionid>
+</valsi>
+<valsi word="suvyco'e" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ su&apos;u $x_2$ co&apos;e .i va&apos;i $x_1$ astrato gi&apos;e srana $x_2$</definition>
+  <definitionid>67695</definitionid>
 </valsi>
 <valsi word="suzdza" type="lujvo">
   <user>
@@ -28182,6 +28322,14 @@
   <definition>$x_1$ te mukti $x_2$ fi $x_3$</definition>
   <definitionid>65736</definitionid>
   <notes>srana fa zo {mukti} .e zo {zukte}</notes>
+</valsi>
+<valsi word="termu'igau" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ gasnu lo nu $x_2$ te mukti $x_3$ $x_4$</definition>
+  <definitionid>67679</definitionid>
 </valsi>
 <valsi word="terpa" type="gismu">
   <rafsi>tep</rafsi>
@@ -31048,6 +31196,14 @@
   <definitionid>41427</definitionid>
   <glossword word="visycu&apos;i" />
 </valsi>
+<valsi word="visygau" type="lujvo">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ gasnu lo nu $x_2$ viska $x_3$ $x_4$</definition>
+  <definitionid>67707</definitionid>
+</valsi>
 <valsi word="visysanji" type="lujvo">
   <user>
     <username>vensa</username>
@@ -31508,6 +31664,14 @@
   </user>
   <definition>nu&apos;a vu&apos;u .i $x_1$ se sumji $x_2$ $x_3$ $x_4$ li&apos;o .i pe&apos;a zi&apos;o vimcu $x_3$ jo&apos;u $x_4$ li&apos;o $x_2$ $x_1$</definition>
   <definitionid>67364</definitionid>
+</valsi>
+<valsi unofficial="true" word="vukna" type="experimental gismu">
+  <user>
+    <username>spheniscine</username>
+    <realname>Jonathan</realname>
+  </user>
+  <definition>$x_1$ na&apos;e jimpe ja tolmo&apos;i lo du&apos;u $x_2$ frica $x_3$ makau</definition>
+  <definitionid>67657</definitionid>
 </valsi>
 <valsi word="vukro" type="gismu">
   <rafsi>vur</rafsi>

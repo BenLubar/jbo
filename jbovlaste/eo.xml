@@ -9365,6 +9365,16 @@
   <notes>Vidu ankaŭ {degji}, {panci}, {sumne}, {tance}.</notes>
   <glossword word="nazo" />
 </valsi>
+<valsi unofficial="true" word="ne'e" type="experimental cmavo">
+  <selmaho>CAI</selmaho>
+  <user>
+    <username>junpen</username>
+    <realname>okaujunpen</realname>
+  </user>
+  <definition>malo</definition>
+  <definitionid>67667</definitionid>
+  <notes>ne&apos;e havas saman signifon kiel {to&apos;e} , sed apartenas al selma&apos;o CAI</notes>
+</valsi>
 <valsi word="nejni" type="gismu">
   <rafsi>nen</rafsi>
   <user>

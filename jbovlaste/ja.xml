@@ -8993,6 +8993,15 @@
   <definitionid>39662</definitionid>
   <notes>・大意： 蒸留酒 ・読み方： ジクル  ・関連語： {barja}, {vanju}, {birje}, {xalka}</notes>
 </valsi>
+<valsi word="jiktra" type="lujvo">
+  <user>
+    <username>cogas</username>
+    <realname>Shotaro</realname>
+  </user>
+  <definition>$x_1=t_1=j_1$ は$x_2=t_2$ （事／性質）を $x_3=j_2$ と交流する際に振る舞う</definition>
+  <definitionid>67643</definitionid>
+  <notes>「la .taron. cu roroi jiktra lo ka sinma kei lo misno ／ 太郎はいつも有名人と会うとき、尊敬しているように振る舞う」 ・関連語：{tarti}, {jikca}</notes>
+</valsi>
 <valsi word="jilka" type="gismu">
   <rafsi>jil</rafsi>
   <user>
@@ -14254,6 +14263,16 @@
   <glossword word="サギ" sense="鳥類" />
   <glossword word="シラサギ" />
 </valsi>
+<valsi unofficial="true" word="ne'e" type="experimental cmavo">
+  <selmaho>CAI</selmaho>
+  <user>
+    <username>junpen</username>
+    <realname>okaujunpen</realname>
+  </user>
+  <definition>対義 </definition>
+  <definitionid>67666</definitionid>
+  <notes>対義語をつくる。 {to&apos;e} と意味が同じの selma&apos;o CAI 。</notes>
+</valsi>
 <valsi word="nei" type="cmavo">
   <selmaho>GOhA</selmaho>
   <user>
@@ -17741,7 +17760,8 @@
   </user>
   <definition>$x_1$ は $x_2$ （溶媒）の中で分解／分散し、 $x_3$ （溶液）を成す、 $x_4$ （条件）において；  $x_1$ はばらける</definition>
   <definitionid>40062</definitionid>
-  <notes>・大意： 分散 ・読み方： ルンタ  ・語呂合わせ： ばらけるンた ・関連語： {litki}, {mixre}, {sligu}, {sudga}</notes>
+  <notes>「水に溶ける」の意味での「溶解」。相転移（氷が水になる）の意味での「溶解」は{runme}；「lo te runta be lo djacu bei lo sakta ／ 砂糖水」 ・大意： 分散 ・読み方： ルンタ  ・語呂合わせ： ばらけるンた ・関連語： {litki}, {mixre}, {sligu}, {sudga}</notes>
+  <glossword word="分散" />
 </valsi>
 <valsi word="ru'o" type="cmavo">
   <selmaho>BY1</selmaho>
