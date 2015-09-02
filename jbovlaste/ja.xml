@@ -10672,7 +10672,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ によって $x_3$ （尺度）について測定された量</definition>
+  <definition>$x_1$ は $x_2$ （数）を測定値として $x_3$ （尺度／概念）について測定された量</definition>
   <definitionid>40563</definitionid>
   <notes>・大意： 量 ・読み方： クルァニ  ・語呂合わせ： 測定済みの量は倉に ・関連語： {la&apos;u}, {namcu}</notes>
 </valsi>
@@ -11635,9 +11635,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>～（数量）度で ： klani 法制詞, $x_1$ ；</definition>
+  <definition>～を量として： klani 法制詞, $x_1$ ；</definition>
   <definitionid>41199</definitionid>
-  <notes>「la&apos;u li 90 mrobi&apos;o／90歳で亡くなる」「la&apos;u li 3 korkla／３マス進む」 ・読み方： ルァフ</notes>
+  <notes>「la&apos;u lo 90 nanca cu mrobi&apos;o／90歳で亡くなる」「la&apos;u lo 3 mei cu korkla／３マス進む」 ・読み方： ルァフ</notes>
 </valsi>
 <valsi word="lazni" type="gismu">
   <user>
@@ -18656,7 +18656,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>～を数量単位として ： klani 法制詞, $x_2$</definition>
+  <definition>～（数）を測定値として ： klani 法制詞, $x_2$</definition>
   <definitionid>41097</definitionid>
   <notes>・読み方： セルァフ</notes>
 </valsi>
@@ -21665,9 +21665,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>～を（度量の）単位として ： klani 法制詞, $x_3$</definition>
+  <definition>～（概念）を測定の尺度として ： klani 法制詞, $x_3$</definition>
   <definitionid>41114</definitionid>
-  <notes>・読み方： テルァフ</notes>
+  <notes>「長さ」「強さ」など、測定単位を決めるための概念。 ・読み方： テルァフ</notes>
 </valsi>
 <valsi word="tele'a" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
